@@ -33,16 +33,18 @@
         <ref target="AbschriftBrief007DissenanBoeckh.xml" title="Copy of the letter from Ludolf G. Dissen to August Boeckh (Göttingen, December 14, 1821)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-10-18">
-        <ref target="AbschriftBrief008DissenanBoeckh.xml" title="Copy of the letter from Ludolf G. Dissen to August Boeckh (Göttingen, undated [Postmark: October 18,                     1825)" folder_name="nachlassprojekt"/>
+        <ref target="AbschriftBrief008DissenanBoeckh.xml" title="Copy of the letter from Ludolf G. Dissen to August Boeckh (Göttingen, undated [Postmark: October 18,
+                    1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-04-05">
         <ref target="AbschriftBrief009DissenanBoeckh.xml" title="Copy of the letter from Ludolf G. Dissen to August Boeckh (Göttingen, April 5, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-06-21">
-        <ref target="AbschriftSitzungsprotokollsSenatsUniversita%CC%88t.xml" title="Transcript of minutes of a meeting of the university senate of June 14, 1826, originally written by August                     Boeckh" folder_name="nachlassprojekt"/>
+        <ref target="AbschriftSitzungsprotokollsSenatsUniversitat.xml" title="Transcript of minutes of a meeting of the university senate of June 14, 1826, originally written by August
+                    Boeckh" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-04-17">
-        <ref target="AktennotizRegierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="Memorandum of the Extraordinary Government Plenipotentiary Boeckh and Krause" folder_name="nachlassprojekt"/>
+        <ref target="AktennotizRegierungsbevollmachtigtenBoeckhundKrause.xml" title="Memorandum of the Extraordinary Government Plenipotentiary Boeckh and Krause" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-12-13">
         <ref target="AktenvermerkfremderHand.xml" title="Memorandum by someone else, drawn by Boeckh (December 13, 1859)" folder_name="nachlassprojekt"/>
@@ -51,7 +53,7 @@
         <ref target="AuftstellungProfessoren.xml" title="List of full and associate professors (o.O., o.D., but after 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-01-01">
-        <ref target="Auszu%CC%88geBriefwechselBoeckhundseinemBruderFriedrich.xml" title="Excerpts from the correspondence between Boeckh and his brother Friedrich (1832-1849)" folder_name="nachlassprojekt"/>
+        <ref target="AuszugeBriefwechselBoeckhundseinemBruderFriedrich.xml" title="Excerpts from the correspondence between Boeckh and his brother Friedrich (1832-1849)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1839-05-15">
         <ref target="AuszugProtokollSenatssitzung.xml" title="Excerpt from the Minutes of the Senate Meeting (Berlin, May 15, 1839)" folder_name="nachlassprojekt"/>
@@ -63,7 +65,7 @@
         <ref target="BescheinigungBoeckhanBrugsch.xml" title="August Boeckh's certificate for Heinrich Brugsch (Berlin, September 18, 1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-09-25">
-        <ref target="BoeckhanScho%CC%88mann.xml" title="Boeckh to Schömann (Berlin September 25, 1819)" folder_name="nachlassprojekt"/>
+        <ref target="BoeckhanSchomann.xml" title="Boeckh to Schömann (Berlin September 25, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1866-04-03">
         <ref target="Brief0001ZiegleranBoeckh.xml" title="Letter from Ziegler (the same as in the previous letter) to August Boeckh (Lissa, April 3, 1866)" folder_name="nachlassprojekt"/>
@@ -84,13 +86,15 @@
         <ref target="Brief000ButtmannanBoeckh.xml" title="Letter from Philipp Buttmann to August Böckh (o.O. and date)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-08-05">
-        <ref target="Brief000DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg                     (Berlin, August 5, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief000DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg
+                    (Berlin, August 5, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1863-12-17">
-        <ref target="Brief000FriedrichAugustStu%CC%88leranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, May 7, 1863)" folder_name="nachlassprojekt"/>
+        <ref target="Brief000FriedrichAugustStuleranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, May 7, 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-11-17">
-        <ref target="Brief000Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Government Plenipotentiaries, signed Weiß and Krause, to the lecturers of the Philosophical Faculty                     (Berlin, November 17, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief000RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Government Plenipotentiaries, signed Weiß and Krause, to the lecturers of the Philosophical Faculty
+                    (Berlin, November 17, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
         <ref target="Brief000RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Bogatynia, August 8th [illegible])" folder_name="nachlassprojekt"/>
@@ -108,7 +112,7 @@
         <ref target="Brief001AlexandervonHumboldtanBoeckh.xml" title="Letter from Alexander Boeckh to his brother Richard (Greifenhagen, July 12, 1840)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-12">
-        <ref target="Brief001AltensteinanRegierungsbevollma%CC%88chtigten.xml" title="Altenstein to the Deputy Extraordinary Plenipotentiary (Berlin, November 12, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001AltensteinanRegierungsbevollmachtigten.xml" title="Altenstein to the Deputy Extraordinary Plenipotentiary (Berlin, November 12, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-12-30">
         <ref target="Brief001AnnaBoeckhanRichardBoeckh.xml" title="Letter from Anna Boeckh to Richard Boeckh (above, December 30, 1847?)" folder_name="nachlassprojekt"/>
@@ -117,16 +121,18 @@
         <ref target="Brief001AugustBoeckhsanunbekannt.xml" title="Letter from August Boeckh to an unknown (Berlin, November 26, 1853)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Brief001AugustundDorotheaBoeckhanihreSo%CC%88hne.xml" title="Letter from August and Dorothea Boeckh to their sons (1820-1828)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001AugustundDorotheaBoeckhanihreSohne.xml" title="Letter from August and Dorothea Boeckh to their sons (1820-1828)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-04-05">
-        <ref target="Brief001BethmannHollweganKo%CC%88niglicheUniversita%CC%88tsCuratorium.xml" title="Bethmann-Hollweg to the Royal University Board of Trustees (Berlin, April 5, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BethmannHollweganKoniglicheUniversitatsCuratorium.xml" title="Bethmann-Hollweg to the Royal University Board of Trustees (Berlin, April 5, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-03-21">
-        <ref target="Brief001bisBoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, March                     21, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001bisBoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, March
+                    21, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-03-21">
-        <ref target="Brief001BoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, March                     21, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, March
+                    21, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-03-02">
         <ref target="Brief001BoeckhanBecker.xml" title="August Boeckh to Dr. F. W. Becker (Berlin, March 2, 1831)" folder_name="nachlassprojekt"/>
@@ -138,10 +144,11 @@
         <ref target="Brief001BoeckhanButtman.xml" title="Letter from August Boeckh to Buttmann at the request of dissent (Berlin, November 5, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-02-24">
-        <ref target="Brief001BoeckhanCarlFriedrichZelter.xml" title="Letter from Boeckh to Carl Friedrich Zelter (Berlin, February 24, 1830), Zelter replied on the same paper on the                     same day" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanCarlFriedrichZelter.xml" title="Letter from Boeckh to Carl Friedrich Zelter (Berlin, February 24, 1830), Zelter replied on the same paper on the
+                    same day" folder_name="nachlassprojekt"/>
     </date>
     <date when="1817-10-22">
-        <ref target="Brief001BoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, October 22, 1817)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanDekanePhilosophischenFakultat.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, October 22, 1817)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-10-24">
         <ref target="Brief001BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, October 24, 1811)" folder_name="nachlassprojekt"/>
@@ -150,10 +157,11 @@
         <ref target="Brief001BoeckhanDorotheaWagemann.xml" title="Letter from August Boeckh to Dorothea Wagemann (Heidelberg, February 3, 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-05-20">
-        <ref target="Brief001BoeckhanDozentenPhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, May 20, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanDozentenPhilosophischenFakultat.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, May 20, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-10-27">
-        <ref target="Brief001BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, October 27,                     1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, October 27,
+                    1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1862-08-07">
         <ref target="Brief001BoeckhanDrMuhlen.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. von Mühlen (Berlin, August 7, 1862)" folder_name="nachlassprojekt"/>
@@ -168,10 +176,10 @@
         <ref target="Brief001BoeckhanEncke.xml" title="Letter from August Boeckh to Encke (Berlin, 22 April 1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1867-03-12">
-        <ref target="Brief001BoeckhanExcellenz.xml" title="Letter from August Boeckh to &#34;Your Excellency&#34; (Berlin, March 12, 1867)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanExcellenz.xml" title="Letter from August Boeckh to &quot;Your Excellency&quot; (Berlin, March 12, 1867)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1865-12-08">
-        <ref target="Brief001BoeckhanKonigHofmarschallamt.xml" title="Letter from August Boeckh to the &#34;Royal Court Marshal's Office&#34; (Berlin, January 21, 1865)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanKonigHofmarschallamt.xml" title="Letter from August Boeckh to the &quot;Royal Court Marshal's Office&quot; (Berlin, January 21, 1865)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1865-01-21">
         <ref target="Brief001BoeckhanKonigWilhelmI.xml" title="Letter from August Boeckh to King Wilhelm I (Berlin, January 21, 1865)" folder_name="nachlassprojekt"/>
@@ -186,7 +194,8 @@
         <ref target="Brief001BoeckhanMinisterium.xml" title="Letter from August Boeckh to the Ministry (Berlin, March 14, 1812)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1814-10-08">
-        <ref target="Brief001BoeckhanMinisteriumInneren.xml" title="Dean Boeckh to the Ministry of the Interior, Department for Culture and Public Education (Berlin, October 7,                     1814)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanMinisteriumInneren.xml" title="Dean Boeckh to the Ministry of the Interior, Department for Culture and Public Education (Berlin, October 7,
+                    1814)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1851-05-16">
         <ref target="Brief001BoeckhanMinistervonRaumer.xml" title="Letter from August Boeckh to the Ministry of Culture, Minister von Raumer (Berlin, May 16, 1851)" folder_name="nachlassprojekt"/>
@@ -198,7 +207,7 @@
         <ref target="Brief001BoeckhanPeterCornelius.xml" title="Letter from August Boeckh to Peter Cornelius (Berlin, March 14, 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1814-09-28">
-        <ref target="Brief001BoeckhanProfessorenPhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the full professors of the Philosophical Faculty (Berlin, September 28, 1814)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhanProfessorenPhilosophischenFakultat.xml" title="August Boeckh to the full professors of the Philosophical Faculty (Berlin, September 28, 1814)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-01-29">
         <ref target="Brief001BoeckhanRegistratorWernicke.xml" title="August Boeckh to Registrator Wernicke (Berlin, January 29, 1833)" folder_name="nachlassprojekt"/>
@@ -225,7 +234,7 @@
         <ref target="Brief001BoeckhanStaatsminister.xml" title="Letter from August Boeckh to the Minister of State (Berlin, January 23, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-07-06">
-        <ref target="Brief001BoeckhantheologischeFakulta%CC%88t.xml" title="August Boeckh to the Faculty of Theology (Berlin, July 6, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001BoeckhantheologischeFakultat.xml" title="August Boeckh to the Faculty of Theology (Berlin, July 6, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-12-29">
         <ref target="Brief001BoeckhanToelken.xml" title="August Boeckh to Toelken (Berlin, December 29, 1819)" folder_name="nachlassprojekt"/>
@@ -243,7 +252,7 @@
         <ref target="Brief001ButtmananHeindorf.xml" title="Letter from Philipp Buttmann to Ludwig Friedrich Heindorf (1806)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1808-05-09">
-        <ref target="Brief001ButtmannanBoeckh.xml" title="" folder_name="nachlassprojekt"/>
+        <ref target="Brief001ButtmannanBoeckh.xml" title="Letter from Philipp Buttmann to August Boeckh (Berlin, May 9, 1808)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1845-01-01">
         <ref target="Brief001CarlFriedrichZelteranBoeckh.xml" title="Letter from Carl Friedrich Zelter to Boeckh and again to Zelter (Berlin, 1845 (?))" folder_name="nachlassprojekt"/>
@@ -252,16 +261,18 @@
         <ref target="Brief001ChristianGottfriedEhrenberganBoeckh.xml" title="Letter from Christian Gottfried Ehrenberg to August Boeckh (Berlin, December 20, 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-12-10">
-        <ref target="Brief001DekaneundProfessorenPhilosophischenFakulta%CC%88tMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, December 10                     1847)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001DekaneundProfessorenPhilosophischenFakultatMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, December 10
+                    1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-02-12">
-        <ref target="Brief001DekanjuristischenFakulta%CC%88tanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Dean of the Faculty of Law to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, February 12,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001DekanjuristischenFakultatanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Dean of the Faculty of Law to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, February 12,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-11-17">
-        <ref target="Brief001DekanMagnusanMitgliederPhilosophischenFakulta%CC%88t.xml" title="Dean Magnus to the members of the Philosophical Faculty (Berlin, November 17, 1847)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001DekanMagnusanMitgliederPhilosophischenFakultat.xml" title="Dean Magnus to the members of the Philosophical Faculty (Berlin, November 17, 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-06-26">
-        <ref target="Brief001DekanundProfessorenPhilosophischenFakulta%CC%88tanRaumer.xml" title="Dean and Professors of the Philosophical Faculty to Herr von Raumer (Berlin, June 26, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001DekanundProfessorenPhilosophischenFakultatanRaumer.xml" title="Dean and Professors of the Philosophical Faculty to Herr von Raumer (Berlin, June 26, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-03-12">
         <ref target="Brief001Dieterici.xml" title="Dieterici, presumably to the lecturers of the philosophical faculty (Berlin, March 12, 1844)" folder_name="nachlassprojekt"/>
@@ -276,7 +287,7 @@
         <ref target="Brief001DorotheaWagemannanAugustBoeckh.xml" title="Letter from Dorothea Wagemann to August Boeckh (Mannheim, undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1839-12-10">
-        <ref target="Brief001DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, December 10, 1839)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, December 10, 1839)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-03-04">
         <ref target="Brief001DrBecker.xml" title="Dr F. W. Becker to the Deputy Extraordinary Plenipotentiary (Berlin, March 4, 1831)" folder_name="nachlassprojekt"/>
@@ -297,13 +308,14 @@
         <ref target="Brief001FNZiegleranBoeckh.xml" title="Letter from F. N. Ziegler to August Boeckh (Berlin, July 16, 1834)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Brief001FriedrichAugustStu%CC%88leranUnbekannt.xml" title="Letter from Friedrich August Stüler to (above, before 1866)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001FriedrichAugustStuleranUnbekannt.xml" title="Letter from Friedrich August Stüler to (above, before 1866)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1853-12-08">
         <ref target="Brief001FriedrichvonRaumeranAugustBoeckh.xml" title="Letter from Friedrich von Raumer to August Boeckh (Berlin, December 16, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1828-09-26">
-        <ref target="Brief001FriedrichWilkenanDorotheaBoeckh.xml" title="Letter from Friedrich Wilken with an addition from his wife to Dorothea Boeckh (Berlin, September 26th                     (1828))" folder_name="nachlassprojekt"/>
+        <ref target="Brief001FriedrichWilkenanDorotheaBoeckh.xml" title="Letter from Friedrich Wilken with an addition from his wife to Dorothea Boeckh (Berlin, September 26th
+                    (1828))" folder_name="nachlassprojekt"/>
     </date>
     <date when="1850-03-27">
         <ref target="Brief001FriedrichZelleanBoeckh.xml" title="Letter from Friedrich Zelle to August Boeckh (Dresden, March 27, 1850)" folder_name="nachlassprojekt"/>
@@ -342,28 +354,34 @@
         <ref target="Brief001KarlZellanBoeckh.xml" title="Letter from Karl Zell to August Boeckh (Heidelberg, December 27, 1850)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1846-11-11">
-        <ref target="Brief001Ko%CC%88niglicheStadtgerichtanSenatUniversita%CC%88t.xml" title="The Royal Municipal Court, Department for Mortgage Questions, to the Senate of the University (Berlin, November                     11, 1846)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001KoniglicheStadtgerichtanSenatUniversitat.xml" title="The Royal Municipal Court, Department for Mortgage Questions, to the Senate of the University (Berlin, November
+                    11, 1846)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-04-10">
-        <ref target="Brief001Ko%CC%88niglicheUniversita%CC%88tsCuratorium.xml" title="The Royal University Board of Trustees to the Directors of the Medical Institutes and Collections (Berlin, April                     10, 1860)" folder_name="nachlassprojekt"/>
-    </date>
-    <date when="1835-12-09">
-        <ref target="Brief001Ku%CC%88nzler.xml" title="Künzler (?) to the deans of the Philosophical Faculty (Berlin, December 9, 1835)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001KoniglicheUniversitatsCuratorium.xml" title="The Royal University Board of Trustees to the Directors of the Medical Institutes and Collections (Berlin, April
+                    10, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-11-15">
         <ref target="Brief001Kummer.xml" title="Kummer to Boeckh, Bopp, Trendelenburg and Haupt (Berlin, November 15, 1857)" folder_name="nachlassprojekt"/>
     </date>
+    <date when="1835-12-09">
+        <ref target="Brief001Kunzler.xml" title="Künzler (?) to the deans of the Philosophical Faculty (Berlin, December 9, 1835)" folder_name="nachlassprojekt"/>
+    </date>
     <date when="1835-11-25">
-        <ref target="Brief001Lambrecht.xml" title="Lambrecht, presumably to the Deputy Extraordinary Government Plenipotentiary (Düsseldorf, November 25,                     1835)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001Lambrecht.xml" title="Lambrecht, presumably to the Deputy Extraordinary Government Plenipotentiary (Düsseldorf, November 25,
+                    1835)" folder_name="nachlassprojekt"/>
+    </date>
+    <date when="1850-02-09">
+        <ref target="Brief001LangeanPhilosophische Fakultat.xml" title="A. Lange to the Faculty of Philosophy (Greiffenhagen, February 9, 1850)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1850-03-23">
-        <ref target="Brief001LaueranBoeckh.xml" title="Dr H. Lauer to August Boeckh (as &#34;Geheimer Rath&#34;) (Anklam, March 23, 1850)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001LaueranBoeckh.xml" title="Dr H. Lauer to August Boeckh (as &quot;Geheimer Rath&quot;) (Anklam, March 23, 1850)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-06-01">
         <ref target="Brief001Lehnert.xml" title="Lehnert to the Royal University Board of Trustees (Berlin, May 25, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1846-12-26">
-        <ref target="Brief001LoewenherzanRektorundSenatUniversita%CC%88t.xml" title="Salomon Loewenherz to the Rector and Senate of the University (Berlin, December 26, 1846)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001LoewenherzanRektorundSenatUniversitat.xml" title="Salomon Loewenherz to the Rector and Senate of the University (Berlin, December 26, 1846)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1834-10-26">
         <ref target="Brief001Marheineke.xml" title="Marheineke to the Deputy Extraordinary Plenipotentiary (Berlin, October 26, 1834)" folder_name="nachlassprojekt"/>
@@ -371,7 +389,7 @@
     <date when="1861-10-20">
         <ref target="Brief001MarieWagemannanihrenOnkelAugustBoeckh.xml" title="Letter from Marie Wagemann to her uncle August Boeckh (Hanover, October 20, 1861)" folder_name="nachlassprojekt"/>
     </date>
-    <date when="1833-01-14">
+    <date when="1933-01-14">
         <ref target="Brief001MaxPlanckanWalterBoeckh.xml" title="Letter from Max Planck to Walter Boeckh (Berlin, January 14, 1933)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1806-04-16">
@@ -387,7 +405,8 @@
         <ref target="Brief001MinisterEichhorn.xml" title="Minister Schuckmann to Hegel and Krause (Berlin, July 29, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-08-11">
-        <ref target="Brief001MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, August 11,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, August 11,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-10-09">
         <ref target="Brief001MinisteriumInneren.xml" title="The Ministry of the Interior to the lecturers of the philosophical faculty (Berlin, October 9, 1820)" folder_name="nachlassprojekt"/>
@@ -402,61 +421,63 @@
         <ref target="Brief001MinisterSchulze.xml" title="Minister Schulze to Prof. Braun (Berlin, March 20, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-06-14">
-        <ref target="Brief001MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, June 14, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, June 14, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-03-25">
-        <ref target="Brief001MitgliederPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The members of the philosophical faculty to the Ministry of the Interior (Berlin, March 25, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MitgliederPhilosophischenFakultatanMinisteriumInneren.xml" title="The members of the philosophical faculty to the Ministry of the Interior (Berlin, March 25, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-08-01">
-        <ref target="Brief001MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, August 1, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, August 1, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1829-05-30">
-        <ref target="Brief001MitgliederPhilosophischenFakulta%CC%88tanRegierungsbevollma%CC%88chtigten.xml" title="The Members of the Philosophical Faculty to the Deputy Government Plenipotentiary (Berlin, May 30, 1829)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MitgliederPhilosophischenFakultatanRegierungsbevollmachtigten.xml" title="The Members of the Philosophical Faculty to the Deputy Government Plenipotentiary (Berlin, May 30, 1829)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-12-18">
-        <ref target="Brief001MitscherlichanPhilsophischeFakulta%CC%88t.xml" title="Prof. Mitscherlich, presumably to the Faculty of Philosophy (Berlin, December 18, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001MitscherlichanPhilsophischeFakultat.xml" title="Prof. Mitscherlich, presumably to the Faculty of Philosophy (Berlin, December 18, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-01-28">
-        <ref target="Brief001NikolaviusanRegierungsbevollma%CC%88chtigten.xml" title="Nikolavius to the Deputy Extraordinary Plenipotentiary (Berlin, January 28, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001NikolaviusanRegierungsbevollmachtigten.xml" title="Nikolavius to the Deputy Extraordinary Plenipotentiary (Berlin, January 28, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1863-03-13">
         <ref target="Brief001PeterCorneliusanBoeckh.xml" title="Letter from Peter Cornelius to August Boeckh (Berlin, March 13, 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-01-10">
-        <ref target="Brief001philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, January                     10, 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, January
+                    10, 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-12-22">
-        <ref target="Brief001PhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The Philosophical Faculty to the Ministry of the Interior (Berlin, December 22, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001PhilosophischenFakultatanMinisteriumInneren.xml" title="The Philosophical Faculty to the Ministry of the Interior (Berlin, December 22, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1850-04-07">
         <ref target="Brief001PredigerZernialanBoeckh.xml" title="Letter from Preacher Zernial to August Boeckh (Schwedt, April 7, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Brief001ProfessorenPhilosophischenFakulta%CC%88tanMinisterEichhorn.xml" title="The professors of the philosophical faculty to Minister Eichhorn (Berlin, undated)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001ProfessorenPhilosophischenFakultatanMinisterEichhorn.xml" title="The professors of the philosophical faculty to Minister Eichhorn (Berlin, undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-01-15">
-        <ref target="Brief001QuaesturUniversita%CC%88tanRektor.xml" title="The quaestorship of the university (?), presumably to the rector (Berlin, January 15, 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001QuaesturUniversitatanRektor.xml" title="The quaestorship of the university (?), presumably to the rector (Berlin, January 15, 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1827-06-16">
         <ref target="Brief001Raumer.xml" title="Raumer to the lecturers of the Philosophical Faculty (Berlin, June 16, 1827)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-03-28">
-        <ref target="Brief001Regierungsbevollma%CC%88chtigteanAugustBoeckh.xml" title="The Extraordinary Government Plenipotentiary to August Boeckh (Berlin, March 28, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RegierungsbevollmachtigteanAugustBoeckh.xml" title="The Extraordinary Government Plenipotentiary to August Boeckh (Berlin, March 28, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1822-07-16">
-        <ref target="Brief001Regierungsbevollma%CC%88chtigteanPhilosophischeFakulta%CC%88t.xml" title="The Extraordinary Government Plenipotentiary to the Philosophical Faculty (Berlin, July 16, 1822)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RegierungsbevollmachtigteanPhilosophischeFakultat.xml" title="The Extraordinary Government Plenipotentiary to the Philosophical Faculty (Berlin, July 16, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-08-01">
-        <ref target="Brief001Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, August 1,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, August 1,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-12-21">
-        <ref target="Brief001Regierungsbevollma%CC%88chtigtenWei%C3%9FundKrause.xml" title="Deputy government plenipotentiaries Weiß and Krause to August Boeckh (Berlin, December 21, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RegierungsbevollmachtigtenWeissundKrause.xml" title="Deputy government plenipotentiaries Weiß and Krause to August Boeckh (Berlin, December 21, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-04-19">
-        <ref target="Brief001RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, April 19, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorBoeckhanDekanePhilosophischenFakultat.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, April 19, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-10-20">
-        <ref target="Brief001RektorBoeckhanMitgliederPhilosophischenFakulta%CC%88t.xml" title="Rector Boeckh to the members of the Philosophical Faculty (Berlin, October 20, 1859)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorBoeckhanMitgliederPhilosophischenFakultat.xml" title="Rector Boeckh to the members of the Philosophical Faculty (Berlin, October 20, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1835-11-05">
         <ref target="Brief001RektorBusch.xml" title="Rector Busch to the Deans of the Philosophical Faculty (Berlin, November 5, 1835)" folder_name="nachlassprojekt"/>
@@ -465,16 +486,16 @@
         <ref target="Brief001RektorDove.xml" title="Rector Dove to the Deans of the Philosophical Faculty (Berlin, July 1, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-11-24">
-        <ref target="Brief001RektorGo%CC%88schen.xml" title="Rector Göschen to the deans of the Philosophical Faculty (Berlin, November 24, 1819)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorGoschen.xml" title="Rector Göschen to the deans of the Philosophical Faculty (Berlin, November 24, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-03-14">
-        <ref target="Brief001RektorMarheinekeanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector, signed Marheineke, to the deans of the philosophical faculty (Berlin, March 14, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorMarheinekeanDekanePhilosophischenFakultat.xml" title="The rector, signed Marheineke, to the deans of the philosophical faculty (Berlin, March 14, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-02-26">
-        <ref target="Brief001RektorUniversita%CC%88tBuschanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector of Busch University (?) to the deans of the philosophical faculty (Berlin, February 26 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorUniversitatBuschanDekanePhilosophischenFakultat.xml" title="The rector of Busch University (?) to the deans of the philosophical faculty (Berlin, February 26 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-12-03">
-        <ref target="Brief001RektorUniversita%CC%88tStrau%C3%9F.xml" title="Rector of the University of Strauss to the deans of the faculty (December 3, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001RektorUniversitatStrauss.xml" title="Rector of the University of Strauss to the deans of the faculty (December 3, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-09-29">
         <ref target="Brief001RichardAlexanderGustavundDorotheaWagemannanAugustBoeckh.xml" title="Letter from Richard, Alexander, Gustav and Dorothea Wagemann to August Boeckh (September 19, 1815)" folder_name="nachlassprojekt"/>
@@ -486,13 +507,13 @@
         <ref target="Brief001RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Baden? November 12, 1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1846-11-27">
-        <ref target="Brief001StudentanRektorundSenatUniversita%CC%88t.xml" title="Student I. Itzig to the Rector of the University (Berlin, November 27, 1846)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001StudentanRektorundSenatUniversitat.xml" title="Student I. Itzig to the Rector of the University (Berlin, November 27, 1846)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-11-04">
         <ref target="Brief001Toelken.xml" title="Toelken to August Boeckh (Berlin, November 4, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-08-11">
-        <ref target="Brief001UnbekannteranDozentenPhilosophischenFakulta%CC%88t.xml" title="Unknown sender to the lecturers of the Philosophical Faculty (Berlin, August 11, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001UnbekannteranDozentenPhilosophischenFakultat.xml" title="Unknown sender to the lecturers of the Philosophical Faculty (Berlin, August 11, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1846-11-19">
         <ref target="Brief001UnbekanntZeunanAugustBoeckh.xml" title="Letter from unknown (Zeun?) To August Boeckh (o.O, November 19, 46)" folder_name="nachlassprojekt"/>
@@ -501,13 +522,13 @@
         <ref target="Brief001vonderJagen.xml" title="Von der Jagen (?), presumably to the members of the Philosophical Faculty (Berlin, April 13, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-09-26">
-        <ref target="Brief001vonLanzolleanRektorundSenatUniversita%CC%88t.xml" title="von Lanzolle, probably to the rector and senate of the university (Constal (?), September 26, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001vonLanzolleanRektorundSenatUniversitat.xml" title="von Lanzolle, probably to the rector and senate of the university (Constal (?), September 26, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-11-21">
         <ref target="Brief001Waldenburg.xml" title="Louis Waldenburg to the Rector and Senate of the University (Berlin, November 21, 1846)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1818-07-22">
-        <ref target="Brief001WilkenanMitgliederPhilosophischenFalkulta%CC%88t.xml" title="Wilken to the members of the Philosophical Faculty (Berlin, July 22, 1818)" folder_name="nachlassprojekt"/>
+        <ref target="Brief001WilkenanMitgliederPhilosophischenFalkultat.xml" title="Wilken to the members of the Philosophical Faculty (Berlin, July 22, 1818)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1861-06-05">
         <ref target="Brief002AdelbertZiegleranBoeckh.xml" title="Letter from Boeckh's pupil Ziegler to August Boeckh (Lissa (Posen), June 5, 1861)" folder_name="nachlassprojekt"/>
@@ -516,19 +537,21 @@
         <ref target="Brief002AlexanderanAugustBoeckh.xml" title="Letter from Alexander to August Boeckh (Berlin, October 1, 1828)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-07-13">
-        <ref target="Brief002AltensteinanRegierungsbevollma%CC%88chtigten.xml" title="Altenstein to the Deputy Extraordinary Plenipotentiary (Berlin, July 13, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002AltensteinanRegierungsbevollmachtigten.xml" title="Altenstein to the Deputy Extraordinary Plenipotentiary (Berlin, July 13, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-03-09">
-        <ref target="Brief002BethmannHollweganKo%CC%88niglicheUniversita%CC%88tsCuratorium.xml" title="Bethmann-Hollweg to the Royal University Board of Trustees (Berlin, March 9, 1860) and on the reverse the Royal                     University Board of Trustees to Boeckh (March 12, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BethmannHollweganKoniglicheUniversitatsCuratorium.xml" title="Bethmann-Hollweg to the Royal University Board of Trustees (Berlin, March 9, 1860) and on the reverse the Royal
+                    University Board of Trustees to Boeckh (March 12, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-04-17">
-        <ref target="Brief002BoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, April                     17, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BoeckhanAbteilungKulturundUnterricht.xml" title="Letter from August Boeckh to the Ministry of Culture, Department for Culture and Public Education (Berlin, April
+                    17, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-07-25">
         <ref target="Brief002BoeckhanBrugsch.xml" title="August Boeckh to Dr. Brugsch (Berlin, July 25, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-07-12">
-        <ref target="Brief002BoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, July 12, 1825)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BoeckhanDekanePhilosophischenFakultat.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, July 12, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-10-28">
         <ref target="Brief002BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, October 28, 1811)" folder_name="nachlassprojekt"/>
@@ -537,10 +560,11 @@
         <ref target="Brief002BoeckhanDorotheaWagemann.xml" title="Letter from August Boeckh to Dorothea Wagemann (Heidelberg, March 6, 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-05-20">
-        <ref target="Brief002BoeckhanDozentenPhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, May 20, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BoeckhanDozentenPhilosophischenFakultat.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, May 20, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-12-03">
-        <ref target="Brief002BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, December 3,                     1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, December 3,
+                    1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1866-01-16">
         <ref target="Brief002BoeckhanEhrenberg.xml" title="Letter from August Boeckh to Ehrenberg (Berlin, January 16, 1866)" folder_name="nachlassprojekt"/>
@@ -552,7 +576,8 @@
         <ref target="Brief002BoeckhanKultusministerium.xml" title="Letter from August Boeckh to the Ministry of Culture (Berlin, August 21, 1812)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-12-30">
-        <ref target="Brief002BoeckhanMinisteriumInneren.xml" title="August Boeckhs on behalf of the Philosophical Faculty to the Ministry of the Interior (Berlin, December 30,                     1819)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002BoeckhanMinisteriumInneren.xml" title="August Boeckhs on behalf of the Philosophical Faculty to the Ministry of the Interior (Berlin, December 30,
+                    1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1852-02-18">
         <ref target="Brief002BoeckhanMinistervonRaumer.xml" title="Letter from August Boeckh to the Ministry of Culture, Minister von Raumer (Berlin, February 18, 1852)" folder_name="nachlassprojekt"/>
@@ -579,10 +604,11 @@
         <ref target="Brief002ButtmannanBoeckh.xml" title="Letter from Philipp Buttmann to August Boeckh (Berlin, October 8, 1808)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-12-18">
-        <ref target="Brief002DekaneundProfessorenPhilosophischenFakulta%CC%88tMinisteriumInneren.xml" title="The Deans and Professors of the Philosophical Faculty to the Ministry of the Interior (Berlin, December 18,                     1848)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002DekaneundProfessorenPhilosophischenFakultatMinisteriumInneren.xml" title="The Deans and Professors of the Philosophical Faculty to the Ministry of the Interior (Berlin, December 18,
+                    1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-11-15">
-        <ref target="Brief002DekanundProfessorenPhilosophischenFakulta%CC%88tanRaumer.xml" title="Deans and professors of the philosophical faculty to Herr von Raumer (Berlin, November 15, 1855)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002DekanundProfessorenPhilosophischenFakultatanRaumer.xml" title="Deans and professors of the philosophical faculty to Herr von Raumer (Berlin, November 15, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-03-12">
         <ref target="Brief002Dieterici.xml" title="Dieterici, presumably to the lecturers of the philosophical faculty (Berlin, March 12, 1844)" folder_name="nachlassprojekt"/>
@@ -597,10 +623,10 @@
         <ref target="Brief002DorotheaWagemannanAugustBoeckh.xml" title="Letter from Dorothea Wagemann to August Boeckh (Mannheim, undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-02-19">
-        <ref target="Brief002DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, February 19, 1837)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, February 19, 1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-12-09">
-        <ref target="Brief002FriedrichAugustStu%CC%88leranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, December 9, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002FriedrichAugustStuleranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, December 9, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1853-12-08">
         <ref target="Brief002FriedrichvonRaumeranAugustBoeckh.xml" title="Letter from Friedrich von Raumer to August Boeckh (Berlin, December 7, 1853)" folder_name="nachlassprojekt"/>
@@ -618,7 +644,8 @@
         <ref target="Brief002KarlZellanBoeckh.xml" title="Letter from Karl Zell to August Boeckh (Heidelberg, June 26, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-06-04">
-        <ref target="Brief002Ko%CC%88niglicheUniversita%CC%88tsCuratorium.xml" title="The Royal University Board of Trustees (signed Boeckh and Lehnert) to August Boeckh (Berlin, June 1,                     1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002KoniglicheUniversitatsCuratorium.xml" title="The Royal University Board of Trustees (signed Boeckh and Lehnert) to August Boeckh (Berlin, June 1,
+                    1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-05-26">
         <ref target="Brief002Kummer.xml" title="Kummer to Boeckh, Mitscherlich, Rose and Magnus (Berlin, May 26, 1858)" folder_name="nachlassprojekt"/>
@@ -630,7 +657,8 @@
         <ref target="Brief002MinisterAltenstein.xml" title="Minister Altenstein to the Faculty of Philosophy (Berlin, July 20, 1818)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-04-16">
-        <ref target="Brief002MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, April 16,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, April 16,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-04-26">
         <ref target="Brief002MinisteriumInneren.xml" title="The Ministry of the Interior to the Philosophical Faculty (Berlin, April 26, 1820)" folder_name="nachlassprojekt"/>
@@ -642,34 +670,39 @@
         <ref target="Brief002MinisterSchuckmann.xml" title="Minister Eichhorn to the Faculty of Philosophy (Berlin, May 17, 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1861-05-16">
-        <ref target="Brief002MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 16, 1861)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 16, 1861)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-04-24">
-        <ref target="Brief002MitgliederPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The members of the Philosophical Faculty to the Ministry of the Interior, Department of Culture and Public                     Education (Berlin, April 24, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002MitgliederPhilosophischenFakultatanMinisteriumInneren.xml" title="The members of the Philosophical Faculty to the Ministry of the Interior, Department of Culture and Public
+                    Education (Berlin, April 24, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-08-10">
-        <ref target="Brief002MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, August 10, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, August 10, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-01-14">
-        <ref target="Brief002philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Faculty of Philosophy, signed Boeckh, to the Deputy Extraordinary Plenipotentiary (Berlin, January 14,                     1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Faculty of Philosophy, signed Boeckh, to the Deputy Extraordinary Plenipotentiary (Berlin, January 14,
+                    1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-06-28">
-        <ref target="Brief002QuaesturUniversita%CC%88tanRektor.xml" title="The quaestorship of the university (?), presumably to the rector (Berlin, June 28, 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002QuaesturUniversitatanRektor.xml" title="The quaestorship of the university (?), presumably to the rector (Berlin, June 28, 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1827-03-20">
         <ref target="Brief002Raumer.xml" title="Raumer to the members of the Philosophical Faculty (Berlin, March 20, 1827)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-02-13">
-        <ref target="Brief002Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, February 13,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, February 13,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-05-11">
-        <ref target="Brief002Regierungsbevollma%CC%88chtigtenWei%C3%9FundKrause.xml" title="The deputy plenipotentiaries Weiß and Krause to the lecturers of the philosophical faculty (Berlin, May 11,                     1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002RegierungsbevollmachtigtenWeissundKrause.xml" title="The deputy plenipotentiaries Weiß and Krause to the lecturers of the philosophical faculty (Berlin, May 11,
+                    1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-09-21">
-        <ref target="Brief002RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, September 21, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002RektorBoeckhanDekanePhilosophischenFakultat.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, September 21, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-01-27">
-        <ref target="Brief002RektorBoeckhUniversita%CC%88tanQuaesturUniversita%CC%88t.xml" title="The rector of the university, signed Boeckh, to the quaestorship of the university (Berlin, January 27,                     1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002RektorBoeckhUniversitatanQuaesturUniversitat.xml" title="The rector of the university, signed Boeckh, to the quaestorship of the university (Berlin, January 27,
+                    1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-08-18">
         <ref target="Brief002RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (Christiania, August 18, 1843)" folder_name="nachlassprojekt"/>
@@ -678,19 +711,20 @@
         <ref target="Brief002RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Greifenhagen, July 25, 1840)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-10-26">
-        <ref target="Brief002StudentanRektorundSenatUniversita%CC%88t.xml" title="Student H. Paul to the Rector and Senate of the University (Berlin, October 26, 1859)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002StudentanRektorundSenatUniversitat.xml" title="Student H. Paul to the Rector and Senate of the University (Berlin, October 26, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-22">
         <ref target="Brief002Toelken.xml" title="Toelken to the members of the Philosophical Faculty (Berlin, November 22, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-10-16">
-        <ref target="Brief002vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, October 16,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief002vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, October 16,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1828-09-26">
         <ref target="Brief003AlexanderanAugustBoeckh.xml" title="Letter from Alexander to August Boeckh (Berlin, September 26 [1828])" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-02-10">
-        <ref target="Brief003BoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, February 10, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003BoeckhanDekanePhilosophischenFakultat.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, February 10, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1812-08-06">
         <ref target="Brief003BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, August 6, 1812)" folder_name="nachlassprojekt"/>
@@ -699,10 +733,11 @@
         <ref target="Brief003BoeckhanDorotheaWagemann.xml" title="Letter from August Boeckh to Dorothea Wagemann (Heidelberg, March 10, 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-04-24">
-        <ref target="Brief003BoeckhanDozentenPhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, April 24, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003BoeckhanDozentenPhilosophischenFakultat.xml" title="August Boeckh to the lecturers of the Philosophical Faculty (Berlin, April 24, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-12-21">
-        <ref target="Brief003BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, December 21,                     1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003BoeckhanDrBethmannHollweg.xml" title="Letter from August Boeckh to the Ministry of Education, Dr. by Bethmann-Hollweg (Berlin, December 21,
+                    1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1840-07-20">
         <ref target="Brief003BoeckhanEncke.xml" title="Letter from August Boeckh to Encke (Berlin, 20 June 1840)" folder_name="nachlassprojekt"/>
@@ -735,7 +770,8 @@
         <ref target="Brief003ButtmannanBoeckh.xml" title="Letter from Philipp Buttmann to August Böckh (Berlin, January 2 (9?), 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-07-05">
-        <ref target="Brief003DekaneundProfessorenPhilosophischenFakulta%CC%88tMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, July 5                     1848)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003DekaneundProfessorenPhilosophischenFakultatMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, July 5
+                    1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1822-01-22">
         <ref target="Brief003DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, January 22, 1822)" folder_name="nachlassprojekt"/>
@@ -747,10 +783,10 @@
         <ref target="Brief003DorotheaWagemannanAugustBoeckh.xml" title="Letter from Dorothea Wagemann to August Boeckh (Mannheim, undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-10-19">
-        <ref target="Brief003DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, October 19, 1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, October 19, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1864-07-05">
-        <ref target="Brief003FriedrichAugustStu%CC%88leranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, July 5, 1864)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003FriedrichAugustStuleranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, July 5, 1864)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-10-20">
         <ref target="Brief003FriedrichvonRaumeranAugustBoeckh.xml" title="Letter from Friedrich von Raumer to August Boeckh (Berlin, October 20, 1855)" folder_name="nachlassprojekt"/>
@@ -768,55 +804,61 @@
         <ref target="Brief003MinisterAltenstein.xml" title="Minister Altenstein to the Faculty of Philosophy (Berlin, October 24, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-02-16">
-        <ref target="Brief003MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, February 16,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, February 16,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-03-04">
         <ref target="Brief003MinisterSchuckmann.xml" title="Minister Nikolavius to the Deans of the Philosophical Faculty (Berlin, March 4, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-11-18">
-        <ref target="Brief003MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 18, 1858)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 18, 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1823-11-20">
-        <ref target="Brief003MitgliederPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The members of the philosophical faculty, presumably to the Ministry of the Interior (Berlin, November 20,                     1823)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003MitgliederPhilosophischenFakultatanMinisteriumInneren.xml" title="The members of the philosophical faculty, presumably to the Ministry of the Interior (Berlin, November 20,
+                    1823)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-12-10">
-        <ref target="Brief003MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 10, 1857)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 10, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-10-15">
-        <ref target="Brief003philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, October                     15, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, October
+                    15, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-11-30">
         <ref target="Brief003Raumer.xml" title="Raumer to the Faculty of Philosophy (Berlin, November 30, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-10-17">
-        <ref target="Brief003Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, October 17,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministry of the Interior (Berlin, October 17,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-09-22">
-        <ref target="Brief003Regierungsbevollma%CC%88chtigtenWei%C3%9FundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Faculty of Philosophy (Berlin, September 22,                     1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003RegierungsbevollmachtigtenWeissundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Faculty of Philosophy (Berlin, September 22,
+                    1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-03-31">
-        <ref target="Brief003RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, March 31, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003RektorBoeckhanDekanePhilosophischenFakultat.xml" title="Boeckh as rector of the university to the deans of the philosophical faculty (Berlin, March 31, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-01-13">
-        <ref target="Brief003RektorBoeckhUniversita%CC%88tanQuaesturUniversita%CC%88t.xml" title="The rector of the university, signed Boeckh, to the quaestorship of the university (Berlin, January 13, 1847)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003RektorBoeckhUniversitatanQuaesturUniversitat.xml" title="The rector of the university, signed Boeckh, to the quaestorship of the university (Berlin, January 13, 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-08-24">
-        <ref target="Brief003RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (illegible &#34;Legolsland&#34;, August 24, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (illegible &quot;Legolsland&quot;, August 24, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1840-08-23">
         <ref target="Brief003RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to August Boeckh (Berlin, 23 August 1840)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-12-20">
-        <ref target="Brief003StudentanRektorundSenatUniversita%CC%88t.xml" title="Student G. Stay (?) to Rector and Senate of the University (Berlin, December 20, 1859)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003StudentanRektorundSenatUniversitat.xml" title="Student G. Stay (?) to Rector and Senate of the University (Berlin, December 20, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-11">
         <ref target="Brief003Toelken.xml" title="Toelken to the Deputy Plenipotentiaries Extraordinary (Berlin, November 11, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-10-20">
-        <ref target="Brief003vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, October 20,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief003vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, October 20,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-03-29">
-        <ref target="Brief004BoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, March 29, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004BoeckhanDekanePhilosophischenFakultat.xml" title="August Boeckh to the Deans of the Philosophical Faculty (Berlin, March 29, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-02-04">
         <ref target="Brief004BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, February 4, 1813)" folder_name="nachlassprojekt"/>
@@ -849,7 +891,8 @@
         <ref target="Brief004ButtmannanBoeckh.xml" title="Letter from Philipp Buttmann to August Böckh (Berlin, January 21, 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-06-09">
-        <ref target="Brief004DekaneundProfessorenPhilosophischenFakulta%CC%88tMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, June 9,                     1848)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004DekaneundProfessorenPhilosophischenFakultatMinisteriumInneren.xml" title="The deans and professors of the philosophical faculty to the Ministry of the Interior (Berlin, June 9,
+                    1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1822-02-06">
         <ref target="Brief004DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, February 6, 1822)" folder_name="nachlassprojekt"/>
@@ -861,10 +904,10 @@
         <ref target="Brief004DorotheaWagemannanAugustBoeckh.xml" title="Letter from Dorothea Wagemann to August Boeckh (undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1840-04-20">
-        <ref target="Brief004DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, April 20, 1840)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, April 20, 1840)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1863-05-07">
-        <ref target="Brief004FriedrichAugustStu%CC%88leranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, May 7, 1863)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004FriedrichAugustStuleranUnbekannt.xml" title="Letter from Friedrich August Stüler to (Berlin, May 7, 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-05-18">
         <ref target="Brief004Kummer.xml" title="Kummer to Boeckh, Trendelenburg, Toelken and Gerhard (Berlin, May 18, 1858)" folder_name="nachlassprojekt"/>
@@ -873,28 +916,33 @@
         <ref target="Brief004MinisterAltenstein.xml" title="Minister Altenstein to the Faculty of Philosophy (Berlin, February 28, 1834)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-03-05">
-        <ref target="Brief004MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, March 5,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, March 5,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-11-10">
         <ref target="Brief004MinisterSchuckmann.xml" title="Minister Nikolavius to the Philosophical Faculty (Berlin, November 10, 1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-02-02">
-        <ref target="Brief004MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, February 2, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, February 2, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-03-10">
-        <ref target="Brief004MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, March 10, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, March 10, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1832-11-17">
-        <ref target="Brief004philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,                     November 17, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,
+                    November 17, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-04-14">
-        <ref target="Brief004Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministerial Commission (Berlin, April 14,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Plenipotentiary Boeckh and Krause to the Ministerial Commission (Berlin, April 14,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-08-23">
-        <ref target="Brief004Regierungsbevollma%CC%88chtigtenWei%C3%9FundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Faculty of Philosophy (Berlin, August 23,                     1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004RegierungsbevollmachtigtenWeissundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Faculty of Philosophy (Berlin, August 23,
+                    1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-03-17">
-        <ref target="Brief004RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector of the university, signed Boeckh, to the deans of the philosophical faculty (Berlin, March 17,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004RektorBoeckhanDekanePhilosophischenFakultat.xml" title="The rector of the university, signed Boeckh, to the deans of the philosophical faculty (Berlin, March 17,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-09-01">
         <ref target="Brief004RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents Anna and August Boeckh (Sognefjord, September 1, 1843)" folder_name="nachlassprojekt"/>
@@ -906,7 +954,8 @@
         <ref target="Brief004Toelken.xml" title="Toelken to the Deputy Plenipotentiaries Extraordinary (Berlin, December 13, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-07-31">
-        <ref target="Brief004vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, July 31,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief004vonderJagen.xml" title="von der Jagen (?), presumably to the Deputy Extraordinary Government Plenipotentiary (Berlin, July 31,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1816-01-04">
         <ref target="Brief005BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, January 4, 1816)" folder_name="nachlassprojekt"/>
@@ -942,34 +991,40 @@
         <ref target="Brief005DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Göttingen, June 6, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-03-27">
-        <ref target="Brief005DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, March 27, 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, March 27, 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1821-07-30">
         <ref target="Brief005MinisterAltenstein.xml" title="Minister Altenstein to the Faculty of Philosophy (Berlin, July 30, 1821)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-03-05">
-        <ref target="Brief005MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, March 5,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, March 5,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-05-20">
-        <ref target="Brief005MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 20, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 20, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-03-12">
-        <ref target="Brief005MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, March 12, 1857)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, March 12, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-03-22">
-        <ref target="Brief005philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, March                     22, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, March
+                    22, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-02-10">
-        <ref target="Brief005Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical                     Faculty (Berlin, February 10, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical
+                    Faculty (Berlin, February 10, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-09-30">
-        <ref target="Brief005Regierungsbevollma%CC%88chtigtenWei%C3%9FundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Philosophical Faculty (Berlin, September 30,                     1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005RegierungsbevollmachtigtenWeissundKrause.xml" title="Deputy Government Plenipotentiaries Weiß and Krause to the Philosophical Faculty (Berlin, September 30,
+                    1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-04-09">
-        <ref target="Brief005RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector of the university, signed Boeckh, to the deans of the philosophical faculty (Berlin, April 9                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005RektorBoeckhanDekanePhilosophischenFakultat.xml" title="The rector of the university, signed Boeckh, to the deans of the philosophical faculty (Berlin, April 9
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-09-17">
-        <ref target="Brief005RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents Anna and August Boeckh (Norway (location illegible), September 17th                     1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents Anna and August Boeckh (Norway (location illegible), September 17th
+                    1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1840-09-06">
         <ref target="Brief005RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Berlin, September 6, 1840)" folder_name="nachlassprojekt"/>
@@ -978,7 +1033,8 @@
         <ref target="Brief005Toelken.xml" title="Toelken to the Deputy Plenipotentiaries Extraordinary (Berlin, July 13, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-04-26">
-        <ref target="Brief005vonderJagen.xml" title="von der Jagen (?) to the Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause (Berlin, April 26,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief005vonderJagen.xml" title="von der Jagen (?) to the Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause (Berlin, April 26,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-10-10">
         <ref target="Brief006BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, October 10, 1819)" folder_name="nachlassprojekt"/>
@@ -1014,28 +1070,31 @@
         <ref target="Brief006DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Göttingen, July 5, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-03-28">
-        <ref target="Brief006DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, March 28, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, March 28, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-08-21">
         <ref target="Brief006MinisterAltenstein.xml" title="Minister Altenstein to the Rector and Senate of the University (Berlin, August 21, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-11-06">
-        <ref target="Brief006MinisterialcommissionanRegierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, November 6,                     1837)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006MinisterialcommissionanRegierungsbevollmachtigtenKrauseundBoeckh.xml" title="The Ministerial Commission to the Deputy Government Plenipotentiaries Krause and Boeckh (Berlin, November 6,
+                    1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1862-01-23">
-        <ref target="Brief006MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, January 23, 1862)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, January 23, 1862)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-07-13">
-        <ref target="Brief006MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, July 13, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, July 13, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-03-22">
-        <ref target="Brief006philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, March                     22, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, March
+                    22, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-13">
-        <ref target="Brief006Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical                     Faculty (Berlin, November 13, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical
+                    Faculty (Berlin, November 13, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-11-01">
-        <ref target="Brief006RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, November 1, 1825)" folder_name="nachlassprojekt"/>
+        <ref target="Brief006RektorBoeckhanDekanePhilosophischenFakultat.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, November 1, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-10-09">
         <ref target="Brief006RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents Anna and August Boeckh (Upsala, September 9, 1843?)" folder_name="nachlassprojekt"/>
@@ -1080,22 +1139,24 @@
         <ref target="Brief007DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Göttingen, August 2, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1835-11-05">
-        <ref target="Brief007DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, November 5, 1835)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior (Berlin, November 5, 1835)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-11-24">
-        <ref target="Brief007MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 24, 1859)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 24, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-07-13">
-        <ref target="Brief007MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, July 13, 1857)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, July 13, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1835-12-27">
-        <ref target="Brief007philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,                     December 27, 1835)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,
+                    December 27, 1835)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-12-15">
-        <ref target="Brief007Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical                     Faculty (Berlin, December 15, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical
+                    Faculty (Berlin, December 15, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-12-10">
-        <ref target="Brief007RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, December 10, 1825)" folder_name="nachlassprojekt"/>
+        <ref target="Brief007RektorBoeckhanDekanePhilosophischenFakultat.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, December 10, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-08-17">
         <ref target="Brief007RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (Bern, August 17, 1844)" folder_name="nachlassprojekt"/>
@@ -1140,22 +1201,25 @@
         <ref target="Brief008DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Wolgast, undated [1813]" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-12-09">
-        <ref target="Brief008DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, (probably) draft letter Dietericis                     (Berlin, December 9, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, (probably) draft letter Dietericis
+                    (Berlin, December 9, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-02-28">
-        <ref target="Brief008MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, February 28, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, February 28, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-11-13">
-        <ref target="Brief008MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 13, 1858)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 13, 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-01-03">
-        <ref target="Brief008philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, January                     3, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin, January
+                    3, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-25">
-        <ref target="Brief008Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical                     Faculty (Berlin, November 25, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical
+                    Faculty (Berlin, November 25, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-06-15">
-        <ref target="Brief008RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, June 15, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief008RektorBoeckhanDekanePhilosophischenFakultat.xml" title="The rector, signed Boeckh, to the deans of the philosophical faculty (Berlin, June 15, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-09-07">
         <ref target="Brief008RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (Palermo, September 7, 1844)" folder_name="nachlassprojekt"/>
@@ -1197,22 +1261,25 @@
         <ref target="Brief009DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Wolgast, June 10, 1813)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-01-04">
-        <ref target="Brief009DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter (Trendelenburgs?)                     (Berlin, January 4, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter (Trendelenburgs?)
+                    (Berlin, January 4, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1859-11-03">
-        <ref target="Brief009MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 3, 1859)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 3, 1859)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-11-15">
-        <ref target="Brief009MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 15, 1855)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 15, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-02-06">
-        <ref target="Brief009philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,                     February 6, 1832)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,
+                    February 6, 1832)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-09">
-        <ref target="Brief009Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical                     Faculty (Berlin, November 9, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiaries Boeckh and Krause to the Members of the Philosophical
+                    Faculty (Berlin, November 9, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-02-19">
-        <ref target="Brief009RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="Rector Boeckh to the deans of the Philosophical Faculty (Berlin, February 19, 1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief009RektorBoeckhanDekanePhilosophischenFakultat.xml" title="Rector Boeckh to the deans of the Philosophical Faculty (Berlin, February 19, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-09-27">
         <ref target="Brief009RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents ([Naples?], September 27 [1844])" folder_name="nachlassprojekt"/>
@@ -1248,22 +1315,25 @@
         <ref target="Brief010DorotheaBoeckhanAugustBoeckh.xml" title="Letter from Dorothea Boeckh to August Boeckh (Wolgast, June 27, 1813)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-04-03">
-        <ref target="Brief010DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft of a letter (presumably) from                     Trendelenburg (Berlin, April 3, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft of a letter (presumably) from
+                    Trendelenburg (Berlin, April 3, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1861-05-30">
-        <ref target="Brief010MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 30, 1861)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 30, 1861)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-02-19">
-        <ref target="Brief010MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 19, 1855)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 19, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-02-06">
-        <ref target="Brief010philosophischeFakulta%CC%88tBoeckhanRegierungsbevollma%CC%88chtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,                     February 6, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010philosophischeFakultatBoeckhanRegierungsbevollmachtigten.xml" title="The Philosophical Faculty, signed Boeckh, to the Deputy Extraordinary Government Plenipotentiary (Berlin,
+                    February 6, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-08-20">
-        <ref target="Brief010Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiary Boeckh and Krause to the Philosophical Faculty (Berlin,                     August 20, 1838)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Extraordinary Government Plenipotentiary Boeckh and Krause to the Philosophical Faculty (Berlin,
+                    August 20, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-11-02">
-        <ref target="Brief010RektorBoeckhanDekanePhilosophischenFakulta%CC%88t.xml" title="Rector Boeckh to the Deans of the Philosophical Faculty (Berlin, November 2, 1837)" folder_name="nachlassprojekt"/>
+        <ref target="Brief010RektorBoeckhanDekanePhilosophischenFakultat.xml" title="Rector Boeckh to the Deans of the Philosophical Faculty (Berlin, November 2, 1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1851-01-08">
         <ref target="Brief010RichardBoeckhanseineEltern.xml" title="Letter from Richard Boeckh to his parents (Karlsruhe, [January 8, 1851?])" folder_name="nachlassprojekt"/>
@@ -1293,16 +1363,18 @@
         <ref target="Brief011DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, October 18, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Brief011DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter (probably) of                     Trendelenburg (Berlin, n.d.)" folder_name="nachlassprojekt"/>
+        <ref target="Brief011DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter (probably) of
+                    Trendelenburg (Berlin, n.d.)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-05-31">
-        <ref target="Brief011MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 31, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief011MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 31, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-02-02">
-        <ref target="Brief011MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 2, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief011MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 2, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-03-01">
-        <ref target="Brief011Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy (Berlin,                     March 1, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief011RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy (Berlin,
+                    March 1, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-09-12">
         <ref target="Brief011RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to August Boeckh (Bergen, September 12, 1843)" folder_name="nachlassprojekt"/>
@@ -1329,16 +1401,18 @@
         <ref target="Brief012DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, June 19, 1823)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-04-26">
-        <ref target="Brief012DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter Dietericis (Berlin,                     April 26, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="Brief012DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter Dietericis (Berlin,
+                    April 26, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-05-31">
-        <ref target="Brief012MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 31, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief012MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, May 31, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-11-27">
-        <ref target="Brief012MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 27, 1857)" folder_name="nachlassprojekt"/>
+        <ref target="Brief012MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 27, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-05-14">
-        <ref target="Brief012Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The Deputy Government Plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Philosophical Faculty                     (Berlin, May 14, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief012RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The Deputy Government Plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Philosophical Faculty
+                    (Berlin, May 14, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-07-24">
         <ref target="Brief012RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father (Heidelberg, July 24, 1844)" folder_name="nachlassprojekt"/>
@@ -1365,16 +1439,18 @@
         <ref target="Brief013DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, September 11, 1823)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-08-05">
-        <ref target="Brief013DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg                     (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief013DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg
+                    (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-11-08">
-        <ref target="Brief013MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 8, 1860)" folder_name="nachlassprojekt"/>
+        <ref target="Brief013MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 8, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-10-30">
-        <ref target="Brief013MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, October 30, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief013MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, October 30, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-02-24">
-        <ref target="Brief013Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy (Berlin,                     February 24, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief013RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy (Berlin,
+                    February 24, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-08-07">
         <ref target="Brief013RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father (Strasbourg ?, postmarked in Basel, August 8, 1844)" folder_name="nachlassprojekt"/>
@@ -1382,7 +1458,7 @@
     <date when="1820-10-15">
         <ref target="Brief014BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, October 15, 1820)" folder_name="nachlassprojekt"/>
     </date>
-    <date when="1809-09-01">
+    <date when="1809-09-01 ">
         <ref target="Brief014BoeckhanDorotheaWagemann.xml" title="Letter from August Boeckh to Dorothea Wagemann (Heidelberg, September 7, 1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1817-12-02">
@@ -1395,16 +1471,18 @@
         <ref target="Brief014DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, November 23, 1823)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-02-23">
-        <ref target="Brief014DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg                     (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief014DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg
+                    (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1861-11-09">
-        <ref target="Brief014MitgliederPhilosophischenFakulta%CC%88tanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 9, 1861)" folder_name="nachlassprojekt"/>
+        <ref target="Brief014MitgliederPhilosophischenFakultatanBethmann-Hollweg.xml" title="The members of the philosophical faculty at Bethmann-Hollweg (Berlin, November 9, 1861)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-12-04">
-        <ref target="Brief014MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 4, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief014MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 4, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Brief014Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The deputy government representatives, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy                     (Berlin, undated)" folder_name="nachlassprojekt"/>
+        <ref target="Brief014RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The deputy government representatives, signed Boeckh and Krause, to the lecturers of the Faculty of Philosophy
+                    (Berlin, undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-10-11">
         <ref target="Brief014RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Rome, October 11, 1844)" folder_name="nachlassprojekt"/>
@@ -1425,13 +1503,15 @@
         <ref target="Brief015DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, December 17, 1823)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-02-23">
-        <ref target="Brief015DozentenPhilosophischenFakulta%CC%88tanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg                     (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
+        <ref target="Brief015DozentenPhilosophischenFakultatanMinisteriumInneren.xml" title="The lecturers of the philosophical faculty to the Ministry of the Interior, draft letter by Trendelenburg
+                    (Berlin, February 23, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-12-04">
-        <ref target="Brief015MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 4, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief015MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, December 4, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-02-11">
-        <ref target="Brief015Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, presumably to the lecturers of the Philosophical Faculty                     (Berlin, February 11, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Brief015RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The deputy plenipotentiaries, signed Boeckh and Krause, presumably to the lecturers of the Philosophical Faculty
+                    (Berlin, February 11, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-07-13">
         <ref target="Brief015RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to August Boeckh (Bad Elmen, July 13, 1847)" folder_name="nachlassprojekt"/>
@@ -1452,10 +1532,11 @@
         <ref target="Brief016DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, May 21, 1824)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-06-04">
-        <ref target="Brief016MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, June 4, 1858)" folder_name="nachlassprojekt"/>
+        <ref target="Brief016MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, June 4, 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1830-11-05">
-        <ref target="Brief016Regierungsbevollma%CC%88chtigtenBoeckhundKrause.xml" title="The deputy government plenipotentiaries, signed Boeckh and Krause, presumably to the lecturers of the Faculty of                     Philosophy (Berlin, November 5, 1830)" folder_name="nachlassprojekt"/>
+        <ref target="Brief016RegierungsbevollmachtigtenBoeckhundKrause.xml" title="The deputy government plenipotentiaries, signed Boeckh and Krause, presumably to the lecturers of the Faculty of
+                    Philosophy (Berlin, November 5, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-07-18">
         <ref target="Brief016RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to August Boeckh (Bad Elmen, July 18, 1847)" folder_name="nachlassprojekt"/>
@@ -1476,7 +1557,7 @@
         <ref target="Brief017DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, December 31, 1824)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-04-06">
-        <ref target="Brief017MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, April 6, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief017MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, April 6, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-08-03">
         <ref target="Brief017RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to August Boeckh (Nuremberg, August 3, 1847)" folder_name="nachlassprojekt"/>
@@ -1500,7 +1581,7 @@
         <ref target="Brief018DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, March 11, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1857-11-06">
-        <ref target="Brief018MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 6, 1857)" folder_name="nachlassprojekt"/>
+        <ref target="Brief018MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 6, 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-05-23">
         <ref target="Brief018RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father (o.O., May 23, 1848)" folder_name="nachlassprojekt"/>
@@ -1518,7 +1599,7 @@
         <ref target="Brief019DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, April 13, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-02-07">
-        <ref target="Brief019MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 7, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief019MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 7, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-04-01">
         <ref target="Brief019RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (o.O., [April 1849])" folder_name="nachlassprojekt"/>
@@ -1536,7 +1617,7 @@
         <ref target="Brief020DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, September 9, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-02-07">
-        <ref target="Brief020MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 7, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="Brief020MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, February 7, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-04-22">
         <ref target="Brief020RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Frankfurt am Main, April 22, 1849)" folder_name="nachlassprojekt"/>
@@ -1557,7 +1638,7 @@
         <ref target="Brief021DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, October 18, 1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-11-07">
-        <ref target="Brief021MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 7, 1855)" folder_name="nachlassprojekt"/>
+        <ref target="Brief021MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Herr von Raumer (Berlin, November 7, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-05-10">
         <ref target="Brief021RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Frankfurt am Main, May 10 [1849])" folder_name="nachlassprojekt"/>
@@ -1572,10 +1653,11 @@
         <ref target="Brief022BoeckhanSchulze.xml" title="Letter from August Boeckh to Johannes Schulze (o.O., October 10, 1860)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-11-18">
-        <ref target="Brief022DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, November 18, 1826) (2 letters from October 25 and April                     5, 26 are only available in copy in Mp. 9)" folder_name="nachlassprojekt"/>
+        <ref target="Brief022DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, November 18, 1826) (2 letters from October 25 and April
+                    5, 26 are only available in copy in Mp. 9)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-02-16">
-        <ref target="Brief022MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty to Minister Raumer (Berlin, February 16, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief022MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty to Minister Raumer (Berlin, February 16, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-05-24">
         <ref target="Brief022RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Dürkheim an der Haardt, May 24 [1849])" folder_name="nachlassprojekt"/>
@@ -1593,7 +1675,7 @@
         <ref target="Brief023DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, April 3, 1827)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-12-14">
-        <ref target="Brief023MitgliederphilosophischenFakulta%CC%88tanRaumer.xml" title="The members of the philosophical faculty, probably to Herr von Raumer (Berlin, December 14, 1854)" folder_name="nachlassprojekt"/>
+        <ref target="Brief023MitgliederphilosophischenFakultatanRaumer.xml" title="The members of the philosophical faculty, probably to Herr von Raumer (Berlin, December 14, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-06-01">
         <ref target="Brief023RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Erfurt, June 1 [1849])" folder_name="nachlassprojekt"/>
@@ -1776,7 +1858,8 @@
         <ref target="Brief036BoeckhanDissen.xml" title="Letter from August Boeckh to Ludolf Dissen (Berlin, November 16, 1829)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-04-21">
-        <ref target="Brief036DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, April 21, 1833) - This is followed by an insert from a                     letter from November 35" folder_name="nachlassprojekt"/>
+        <ref target="Brief036DissenanBoeckh.xml" title="Letter from Ludolf G. Dissen to August Boeckh (Göttingen, April 21, 1833) - This is followed by an insert from a
+                    letter from November 35" folder_name="nachlassprojekt"/>
     </date>
     <date when="1850-06-05">
         <ref target="Brief036RichardBoeckhanseinenVaterBoeckh.xml" title="Letter from Richard Boeckh to his father August Boeckh (Erfurt, June 5, 1850)" folder_name="nachlassprojekt"/>
@@ -1875,13 +1958,14 @@
         <ref target="Briefabschrift001BoeckhanCFHermann.xml" title="Copy of letter from August Boeckh to C.F. Hermann (Berlin, November 24, 1853)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-10-24">
-        <ref target="Briefabschrift001BoeckhanDissen.xml" title="Copy of letter from August Boeckh to Ludolf Dissen (Berlin, October 24, 1811) (The original of the letters is                     available. See the indexing of box 2, folder 10!)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift001BoeckhanDissen.xml" title="Copy of letter from August Boeckh to Ludolf Dissen (Berlin, October 24, 1811) (The original of the letters is
+                    available. See the indexing of box 2, folder 10!)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1851-12-23">
         <ref target="Briefabschrift001BoeckhanFriedrichThiersch.xml" title="Copy of Boeckh's letter to Friedrich Thiersch (December 23, 1851)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-09-25">
-        <ref target="Briefabschrift001BoeckhanScho%CC%88man.xml" title="Copy of Boeckh's letter to Georg Friedrich Schömann (Berlin, September 25, 1819)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift001BoeckhanSchoman.xml" title="Copy of Boeckh's letter to Georg Friedrich Schömann (Berlin, September 25, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1806-04-16">
         <ref target="Briefabschrift001BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, April 16, 1806)" folder_name="nachlassprojekt"/>
@@ -1893,13 +1977,13 @@
         <ref target="Briefabschrift001MoritzMeieranBoeckh.xml" title="Copy of letters Moritz (Hermann Eduard) Meier to Boeckh (Greifswald, undated, around 1821)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-04-08">
-        <ref target="Briefabschrift001Scho%CC%88mannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, April 8, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift001SchomannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, April 8, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-10-28">
         <ref target="Briefabschrift002BoeckhanDissen.xml" title="Copy of letter from August Boeckh to Ludolf Dissen (Berlin, October 24, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-09-25">
-        <ref target="Briefabschrift002BoeckhanScho%CC%88man.xml" title="Copy of Boeckh's letter to Georg Friedrich Schömann (Berlin, May 2, 1822)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift002BoeckhanSchoman.xml" title="Copy of Boeckh's letter to Georg Friedrich Schömann (Berlin, May 2, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1806-04-16">
         <ref target="Briefabschrift002BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, undated, after April 16, 1806)" folder_name="nachlassprojekt"/>
@@ -1908,7 +1992,7 @@
         <ref target="Briefabschrift002KarlFriedrichHermannanBoeckh.xml" title="Copy of letters from Karl Friedrich Hermann to Boeckh (Heidelberg, July 4, 1828)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1820-01-16">
-        <ref target="Briefabschrift002Scho%CC%88mannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, January 16, 1820)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift002SchomannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, January 16, 1820)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1812-08-06">
         <ref target="Briefabschrift003BoeckhanDissen.xml" title="Copy of letter from August Boeckh to Ludolf Dissen (Berlin, August 6, 1812)" folder_name="nachlassprojekt"/>
@@ -1917,7 +2001,7 @@
         <ref target="Briefabschrift003BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, undated, after April 16, 1806)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1822-05-18">
-        <ref target="Briefabschrift003Scho%CC%88mannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, May 18, 1822)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift003SchomannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, May 18, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-02-04">
         <ref target="Briefabschrift004BoeckhanDissen.xml" title="Copy of letter from August Boeckh to Ludolf Dissen (Berlin, February 4, 1813)" folder_name="nachlassprojekt"/>
@@ -1926,7 +2010,7 @@
         <ref target="Briefabschrift004BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, 23 September 1806)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1822-10-09">
-        <ref target="Briefabschrift004Scho%CC%88mannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, October 9, 1822)" folder_name="nachlassprojekt"/>
+        <ref target="Briefabschrift004SchomannanBoeckh.xml" title="Copy of Georg Friedrich Schömann's letter to Boeckh (Greifswald, October 9, 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1806-12-25">
         <ref target="Briefabschrift005BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, December 25, 1806)" folder_name="nachlassprojekt"/>
@@ -1962,7 +2046,8 @@
         <ref target="Briefabschrift015BoeckhanSchulz.xml" title="Copy of letter from August Boeckh to David Schulz (Berlin, February 13, 1843)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-01-01">
-        <ref target="BriefabschriftenKarlFriedrichHermannanBoeckh.xml" title="Copies of letters from Karl Friedrich Hermann to Boeckh (Heidelberg, Marburg, Göttingen, 1836-1857), mostly                     accompanying letters to new publications sent by Hermann" folder_name="nachlassprojekt"/>
+        <ref target="BriefabschriftenKarlFriedrichHermannanBoeckh.xml" title="Copies of letters from Karl Friedrich Hermann to Boeckh (Heidelberg, Marburg, Göttingen, 1836-1857), mostly
+                    accompanying letters to new publications sent by Hermann" folder_name="nachlassprojekt"/>
     </date>
     <date when="1808-01-01">
         <ref target="BriefabschriftenKarlJosephHieronymusWindischmannanBoeckh.xml" title="Copies of letters from Karl Joseph Hieronymus Windischmann to Boeckh (1808 to 1834)" folder_name="nachlassprojekt"/>
@@ -1974,31 +2059,32 @@
         <ref target="BriefausschnitteAugustBoeckhanDavidSchulz.xml" title="6 excerpts from letters from August Boeckh to David Schulz (Berlin, 1806-41)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-01-01">
-        <ref target="Briefauszu%CC%88geAugustBoeckhanseinenBruderChristian.xml" title="Excerpts from letters from August Boeckh to his brother Christian Friedrich Boeckh (Berlin, March 5th to                     September 2nd 1847" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeAugustBoeckhanseinenBruderChristian.xml" title="Excerpts from letters from August Boeckh to his brother Christian Friedrich Boeckh (Berlin, March 5th to
+                    September 2nd 1847" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-10-20">
-        <ref target="Briefauszu%CC%88geBoeckhanMinisterReitzenstein.xml" title="2 excerpts from Boeckh's letters to Minister Reitzenstein (1815 and 1822)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeBoeckhanMinisterReitzenstein.xml" title="2 excerpts from Boeckh's letters to Minister Reitzenstein (1815 and 1822)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-01-01">
-        <ref target="Briefauszu%CC%88geBoeckhanOscarvonSarwey.xml" title="Excerpts of letters from Boeckh to Oscar von Sarwey (1854 and 1866)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeBoeckhanOscarvonSarwey.xml" title="Excerpts of letters from Boeckh to Oscar von Sarwey (1854 and 1866)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-01-01">
-        <ref target="Briefauszu%CC%88geCarlRichardLepsiusanBoeckh.xml" title="Excerpts from letters from Carl Richard Lepsius to Boeckh (1837 to 1863)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeCarlRichardLepsiusanBoeckh.xml" title="Excerpts from letters from Carl Richard Lepsius to Boeckh (1837 to 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1853-03-17">
-        <ref target="Briefauszu%CC%88geFriedrichThierschanBoeckh.xml" title="2 excerpts from Friedrich Thiersch to Boeckh (1851 and 1853)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeFriedrichThierschanBoeckh.xml" title="2 excerpts from Friedrich Thiersch to Boeckh (1851 and 1853)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-04-25">
-        <ref target="Briefauszu%CC%88geHermannBonitzanBoeckh.xml" title="2 excerpts from Hermann Bonitz to Boeckh (1855 and 1858)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeHermannBonitzanBoeckh.xml" title="2 excerpts from Hermann Bonitz to Boeckh (1855 and 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1852-01-01">
-        <ref target="Briefauszu%CC%88geHermannKo%CC%88chlyanBoeckh.xml" title="Excerpts from letters from Hermann Köchly to Boeckh (1852 and 1863)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeHermannKochlyanBoeckh.xml" title="Excerpts from letters from Hermann Köchly to Boeckh (1852 and 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Briefauszu%CC%88geinunklarerReihenfolge.xml" title="Excerpts from letters in an unclear order" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeinunklarerReihenfolge.xml" title="Excerpts from letters in an unclear order" folder_name="nachlassprojekt"/>
     </date>
     <date when="1835-05-07">
-        <ref target="Briefauszu%CC%88geWilhelmDindorfanBoeckh.xml" title="2 excerpts from letters from Wilhelm Dindorf to Boeckh (1835, 36 and 43)" folder_name="nachlassprojekt"/>
+        <ref target="BriefauszugeWilhelmDindorfanBoeckh.xml" title="2 excerpts from letters from Wilhelm Dindorf to Boeckh (1835, 36 and 43)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1827-12-28">
         <ref target="BriefBoeckh.xml" title="Letter from August Boeckh (o. O., December 28-29, 1827)" folder_name="nachlassprojekt"/>
@@ -2007,25 +2093,31 @@
         <ref target="BriefendeDorotheaBoeckhanAugustBoeckh.xml" title="End of letter from Dorothea Boeckh to August Boeckh (Wolgast, undated), possibly the decision of ID 39?" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Briefentwurf000Regierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="presumably draft letters from the deputy government representatives Krause and Boeckh to the Ministry of the                     Interior (n.o., n.d.)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf000RegierungsbevollmachtigtenKrauseundBoeckh.xml" title="presumably draft letters from the deputy government representatives Krause and Boeckh to the Ministry of the
+                    Interior (n.o., n.d.)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-03-31">
-        <ref target="Briefentwurf001MitgliederPhilosophischenFakulta%CC%88tanRaumer.xml" title="Probably a draft letter from the members of the Philosophical Faculty to Herr von Raumer (Berlin, March 31,                     1855)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf001MitgliederPhilosophischenFakultatanRaumer.xml" title="Probably a draft letter from the members of the Philosophical Faculty to Herr von Raumer (Berlin, March 31,
+                    1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-12-06">
-        <ref target="Briefentwurf001ProfessorenPhilosophischenFakulta%CC%88tanLadenberg.xml" title="Draft letter (?) from the professors of the philosophical faculty to Ladenberg (Berlin, December 6, 1847)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf001ProfessorenPhilosophischenFakultatanLadenberg.xml" title="Draft letter (?) from the professors of the philosophical faculty to Ladenberg (Berlin, December 6, 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-10-20">
-        <ref target="Briefentwurf001Regierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="probably a draft letter from the deputy government representatives Krause and Boeckh to the Ministry of the                     Interior (Berlin, October 20, 1838)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf001RegierungsbevollmachtigtenKrauseundBoeckh.xml" title="probably a draft letter from the deputy government representatives Krause and Boeckh to the Ministry of the
+                    Interior (Berlin, October 20, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-05-02">
-        <ref target="Briefentwurf002Regierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="presumably a draft letter from the deputy plenipotentiaries Krause and Boeckh to the Ministerial Commission                     (Berlin, May 2, 1838)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf002RegierungsbevollmachtigtenKrauseundBoeckh.xml" title="presumably a draft letter from the deputy plenipotentiaries Krause and Boeckh to the Ministerial Commission
+                    (Berlin, May 2, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1834-11-01">
-        <ref target="Briefentwurf003Regierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="probably a draft letter from the deputy government representatives Krause and Boeckh to the Faculty of Philosophy                     (Berlin, November 1, 1834)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf003RegierungsbevollmachtigtenKrauseundBoeckh.xml" title="probably a draft letter from the deputy government representatives Krause and Boeckh to the Faculty of Philosophy
+                    (Berlin, November 1, 1834)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1831-03-23">
-        <ref target="Briefentwurf004Regierungsbevollma%CC%88chtigtenKrauseundBoeckh.xml" title="presumably draft letters from the deputy plenipotentiaries Krause and Boeckh to the Ministry of the Interior                     (Berlin, March 23, 1831)" folder_name="nachlassprojekt"/>
+        <ref target="Briefentwurf004RegierungsbevollmachtigtenKrauseundBoeckh.xml" title="presumably draft letters from the deputy plenipotentiaries Krause and Boeckh to the Ministry of the Interior
+                    (Berlin, March 23, 1831)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-05-11">
         <ref target="Briefoderentwurf001AugustBoeckhanJohannGeorgZimmer.xml" title="Letter (draft) from August Boeckh to Johann Georg Zimmer (Berlin, May 1, 1811)" folder_name="nachlassprojekt"/>
@@ -2037,7 +2129,8 @@
         <ref target="BriefoderentwurfvonAugustBoeckhanMinisterSchleinit.xml" title="Letter (draft?) From August Boeckh to Minister Schleinitz (Berlin, February 11, 1863)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1867-05-18">
-        <ref target="Briefunleserlichanmutma%C3%9FlichAugustBoeckh.xml" title="Letter from [illegible] to presumably August Boeckh in his function as Vice Chancellor (Berlin, May 18                     1867)" folder_name="nachlassprojekt"/>
+        <ref target="BriefunleserlichanmutmaßlichAugustBoeckh.xml" title="Letter from [illegible] to presumably August Boeckh in his function as Vice Chancellor (Berlin, May 18
+                    1867)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
         <ref target="Circulare001.xml" title="Circulars to the professors and officials of the university (o.O., o.D.)" folder_name="nachlassprojekt"/>
@@ -2070,7 +2163,7 @@
         <ref target="Circulare001Muller.xml" title="Circular from Rector Müller to the deans of the Philosophical Faculty (Berlin, November 17, 1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1834-12-21">
-        <ref target="Circulare001PhilosophischenFakulta%CC%88t.xml" title="Circular of the Philosophical Faculty to be sent to the Ministry (Berlin, December 21, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare001PhilosophischenFakultat.xml" title="Circular of the Philosophical Faculty to be sent to the Ministry (Berlin, December 21, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
         <ref target="Circulare001Rudolphi.xml" title="Rudolphi's circular to the Deans of the Philosophical Faculty (Berlin, undated)" folder_name="nachlassprojekt"/>
@@ -2088,13 +2181,15 @@
         <ref target="Circulare001vonGagern.xml" title="Von Weiß' circular to the members of the Philosophical Faculty (Berlin, December 3, 1851)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1812-12-17">
-        <ref target="Circulare001vonWei%C3%9F.xml" title="Wolf's (?) circular to the lecturers of the Philosophical Faculty (Berlin, December 17, 1812)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare001vonWeiß.xml" title="Wolf's (?) circular to the lecturers of the Philosophical Faculty (Berlin, December 17, 1812)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-06-08">
-        <ref target="Circulare001Wilken.xml" title="Von Gagern(?)'s circular, presumably to the lecturers of the Philosophical Faculty (Berlin, June 8,                     1825)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare001Wilken.xml" title="Von Gagern(?)'s circular, presumably to the lecturers of the Philosophical Faculty (Berlin, June 8,
+                    1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1825-07-13">
-        <ref target="Circulare001Wolf.xml" title=" von Gagern's (?) circular, presumably to the lecturers of the philosophical faculty (Berlin, July 13,                     1825)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare001Wolf.xml" title=" von Gagern's (?) circular, presumably to the lecturers of the philosophical faculty (Berlin, July 13,
+                    1825)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1817-04-21">
         <ref target="Circulare002Bekker.xml" title="Circulare Bekkers to the lecturers of the Philosophical Faculty (Berlin, April 21, 1817)" folder_name="nachlassprojekt"/>
@@ -2121,7 +2216,8 @@
         <ref target="Circulare002Tolken.xml" title="Toelken's circular to the lecturers of the philosophical faculty (Berlin, February 17, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-12-21">
-        <ref target="Circulare002vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, December 21,                     1837)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare002vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, December 21,
+                    1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1817-02-26">
         <ref target="Circulare002vonGagern.xml" title="Wilken's circular to the members of the Philosophical Faculty (Berlin, February 26, 1817)" folder_name="nachlassprojekt"/>
@@ -2145,7 +2241,8 @@
         <ref target="Circulare003Tolken.xml" title="Toelken's circular to the lecturers of the Philosophical Faculty (Berlin, February 23, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-01-27">
-        <ref target="Circulare003vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, January 27,                     1838)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare003vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, January 27,
+                    1838)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-01-16">
         <ref target="Circulare004Boeckh.xml" title="Boeckh's circular to the members of the Philosophical Faculty (Berlin, January 16, 1815)" folder_name="nachlassprojekt"/>
@@ -2166,7 +2263,8 @@
         <ref target="Circulare004Tolken.xml" title="Toelken's circular to the lecturers of the Philosophical Faculty (Berlin, October 27, 1830)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-12-07">
-        <ref target="Circulare004vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, December 7,                     1837)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare004vonderJagen.xml" title="von der Jagen's (?) circular presumably to the lecturers of the philosophical faculty (Berlin, December 7,
+                    1837)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-12-20">
         <ref target="Circulare005Boeckh.xml" title="Boeckh's circular to the members of the Philosophical Faculty (Berlin, December 20, 1819)" folder_name="nachlassprojekt"/>
@@ -2208,13 +2306,15 @@
         <ref target="Circulare008Boeckh.xml" title="Boeckh's circular to the members of the Philosophical Faculty (Berlin, January 28, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-05-27">
-        <ref target="Circulare009Boeckh.xml" title="Circular from the rector of the university, signed August Boeckh, to the deans of the philosophical faculty                     (Berlin, May 27, 1826)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare009Boeckh.xml" title="Circular from the rector of the university, signed August Boeckh, to the deans of the philosophical faculty
+                    (Berlin, May 27, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-07-05">
-        <ref target="Circulare010Boeckh.xml" title="Circular from the rector of the university, signed August Boeckh, to the deans of the philosophical faculty                     (Berlin, July 5, 1826)" folder_name="nachlassprojekt"/>
+        <ref target="Circulare010Boeckh.xml" title="Circular from the rector of the university, signed August Boeckh, to the deans of the philosophical faculty
+                    (Berlin, July 5, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="DiversebiographischeMaterialenu%CC%88berBoeckh.xml" title="Various biographical material about Boeckh, collected around 1905-10" folder_name="nachlassprojekt"/>
+        <ref target="DiversebiographischeMaterialenuberBoeckh.xml" title="Various biographical material about Boeckh, collected around 1905-10" folder_name="nachlassprojekt"/>
     </date>
     <date when="1829-02-02">
         <ref target="EmpfindungenAugustArnemannsanAugustBoeckh.xml" title="August Arnemann's Sentiments to August Boeckh (February 2, 1829)" folder_name="nachlassprojekt"/>
@@ -2223,13 +2323,13 @@
         <ref target="EntwurfBerichtToelken.xml" title="Draft report on Toelken (Berlin, October 10, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1819-10-30">
-        <ref target="Erkla%CC%88rungRaumers.xml" title="Statement by Raumer (Berlin, October 30, 1819)" folder_name="nachlassprojekt"/>
+        <ref target="ErklarungRaumers.xml" title="Statement by Raumer (Berlin, October 30, 1819)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1861-04-25">
         <ref target="FerdinandLasalleanBoeckh.xml" title="Ferdinand Lasalle to Boeckh (Berlin, April 25, 1861)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-02-01">
-        <ref target="Fo%CC%88rmlicherBriefEichhornsanAugustBoeckh.xml" title="Formal letter from Eichhorn to August Boeckh with a request to appear (Berlin, February 1, 1847)" folder_name="nachlassprojekt"/>
+        <ref target="FormlicherBriefEichhornsanAugustBoeckh.xml" title="Formal letter from Eichhorn to August Boeckh with a request to appear (Berlin, February 1, 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1837-11-12">
         <ref target="GeburtstagsbriefAugustAnnaundRichardBoeckhanGustavBoeckh.xml" title="Birthday letter from August, Anna and Richard Boeckh to Gustav Boeckh (Berlin, November 12, 1837)" folder_name="nachlassprojekt"/>
@@ -2238,46 +2338,50 @@
         <ref target="GedichtesDorotheaBoeckhanAugustBoeckh.xml" title="Copy of a poem by Dorothea Boeckh to her grandfather August Boeckh on her 81st birthday" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-01-01">
-        <ref target="Glu%CC%88ckwunschschreiben001AugustMu%CC%88llersanAugustBoeckh.xml" title="Congratulations from August Müller to August Boeckh on his 41st birthday (1826?)" folder_name="nachlassprojekt"/>
+        <ref target="Gluckwunschschreiben001AugustMullersanAugustBoeckh.xml" title="Congratulations from August Müller to August Boeckh on his 41st birthday (1826?)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1836-11-26">
-        <ref target="Glu%CC%88ckwunschschreiben001AWRanAugustBoeckh.xml" title="Congratulations A.W.R. to August Boeckh on his 51st birthday (November 26, 1836)" folder_name="nachlassprojekt"/>
+        <ref target="Gluckwunschschreiben001AWRanAugustBoeckh.xml" title="Congratulations A.W.R. to August Boeckh on his 51st birthday (November 26, 1836)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-01-01">
-        <ref target="Glu%CC%88ckwunschschreiben002AugustMu%CC%88llersanAugustBoeckh.xml" title="Congratulations from August Müller to August Boeckh on his 42nd birthday (1827)" folder_name="nachlassprojekt"/>
+        <ref target="Gluckwunschschreiben002AugustMullersanAugustBoeckh.xml" title="Congratulations from August Müller to August Boeckh on his 42nd birthday (1827)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1854-01-30">
         <ref target="GutachtenBoeckh.xml" title="Boeckh's report on the statute of the Veitel Heine Ephraim Foundation (Berlin, January 30, 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-06-02">
-        <ref target="GutachtenphilosophischenFakulta%CC%88t.xml" title="Opinion of the philosophical faculty on the proposal to change the regulations on the deferral of fees (Berlin,                     June 2, 1856)" folder_name="nachlassprojekt"/>
+        <ref target="GutachtenphilosophischenFakultat.xml" title="Opinion of the philosophical faculty on the proposal to change the regulations on the deferral of fees (Berlin,
+                    June 2, 1856)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1843-01-01">
-        <ref target="HandschriftlicheAbschriftBriefesAlexandervonHumboldtanAugustBoeckh.xml" title="Handwritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, [1843, before letter                     a1])" folder_name="nachlassprojekt"/>
+        <ref target="HandschriftlicheAbschriftBriefesAlexandervonHumboldtanAugustBoeckh.xml" title="Handwritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, [1843, before letter
+                    a1])" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="KonvolutGlu%CC%88ckwunschschreibenanAugustBoeckh001.xml" title="Bundle of letters of congratulations to August Boeckh" folder_name="nachlassprojekt"/>
+        <ref target="KonvolutGluckwunschschreibenanAugustBoeckh001.xml" title="Bundle of letters of congratulations to August Boeckh" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="KonvolutGlu%CC%88ckwunschschreibenanAugustBoeckh002.xml" title="Bundle of printed congratulatory letters and commemorative publications to August Boeckh" folder_name="nachlassprojekt"/>
+        <ref target="KonvolutGluckwunschschreibenanAugustBoeckh002.xml" title="Bundle of printed congratulatory letters and commemorative publications to August Boeckh" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Konvolutu%CC%88berdieGeschichtedesOrdenpourlaMe%CC%81rite.xml" title="Collection of the history of the Order pour la Mérite up to the 20th century, Boeckh's nomination and reception.                     Collected by Walther Boeckh" folder_name="nachlassprojekt"/>
+        <ref target="KonvolutuberdieGeschichtedesOrdenpourlaMerite.xml" title="Collection of the history of the Order pour la Mérite up to the 20th century, Boeckh's nomination and reception.
+                    Collected by Walther Boeckh" folder_name="nachlassprojekt"/>
     </date>
     <date when="1826-07-25">
         <ref target="KopieBriefes001KamptzanBekkedorff.xml" title="Copy of a letter from Kamptz to Bekkedorff (Berlin, July 25, 1826)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Kovolutu%CC%88berdieAbwicklungenvonBu%CC%88chersendungen.xml" title="Collection of book shipments between official French institutions, their authors and A. Boeckh                     (1840-1866)" folder_name="nachlassprojekt"/>
+        <ref target="KovolutuberdieAbwicklungenvonBuchersendungen.xml" title="Collection of book shipments between official French institutions, their authors and A. Boeckh
+                    (1840-1866)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Kovolutu%CC%88berdieAffa%CC%88reRaumer.xml" title="Collection of the Raumer affair, 1847" folder_name="nachlassprojekt"/>
+        <ref target="KovolutuberdieAffareRaumer.xml" title="Collection of the Raumer affair, 1847" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Kovolutu%CC%88berdieFa%CC%88lschungsAffa%CC%88reUranios.xml" title="Collection of the &#34;Uranios&#34; forgery affair by the forger Simonides, 1856-1857" folder_name="nachlassprojekt"/>
+        <ref target="KovolutuberdieFalschungsAffareUranios.xml" title="Collection of the &quot;Uranios&quot; forgery affair by the forger Simonides, 1856-1857" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Kovolutu%CC%88bereineSpendenaktienBoeckh.xml" title="Bundle of one of Boeckh's donation shares in favor of the gouty typesetter of the Lehmann Academy (1854)" folder_name="nachlassprojekt"/>
+        <ref target="KovolutubereineSpendenaktienBoeckh.xml" title="Bundle of one of Boeckh's donation shares in favor of the gouty typesetter of the Lehmann Academy (1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1811-03-11">
         <ref target="MaschinelleBriefabschrift001BoeckhanDorotheaWagemann.xml" title="Machine copy from August Boeckh to Dorothea Wagemann (Berlin, March 21, 1811)" folder_name="nachlassprojekt"/>
@@ -2301,13 +2405,15 @@
         <ref target="MaschinenschriftlicheAbschriftBrief001AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (Berlin, December 28, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-03-23">
-        <ref target="MaschinenschriftlicheAbschriftBrief001BoeckhanseineNichteEmilie.xml" title="Typewritten copy of a letter from August Boeckh to his niece Emilie Stark, née Martin (Berlin, March 23,                     1848)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief001BoeckhanseineNichteEmilie.xml" title="Typewritten copy of a letter from August Boeckh to his niece Emilie Stark, née Martin (Berlin, March 23,
+                    1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1805-10-26">
-        <ref target="MaschinenschriftlicheAbschriftBrief001FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 25. October                     1805)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief001FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 25. October
+                    1805)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-12-28">
-        <ref target="MaschinenschriftlicheAbschriftBrief001Ko%CC%88nigFriedrichIVanBoeckh.xml" title="Typewritten copy of a letter from King Friedrich IV to August Boeckh (Berlin, December 28, 1844)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief001KonigFriedrichIVanBoeckh.xml" title="Typewritten copy of a letter from King Friedrich IV to August Boeckh (Berlin, December 28, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1860-02-29">
         <ref target="MaschinenschriftlicheAbschriftBrief001TheodorMommsenanBoeckh.xml" title="Typewritten copy of a letter from Theodor Mommsen to August Boeckh (Berlin, February 29th 1860)" folder_name="nachlassprojekt"/>
@@ -2316,7 +2422,8 @@
         <ref target="MaschinenschriftlicheAbschriftBrief002AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (o.O., Autumn 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1806-01-26">
-        <ref target="MaschinenschriftlicheAbschriftBrief002FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 26. January                     1801)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief002FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 26. January
+                    1801)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-09-06">
         <ref target="MaschinenschriftlicheAbschriftBrief002TheodorMommsenanBoeckh.xml" title="Typewritten copy of a letter from Theodor Mommsen to August Boeckh (Hamburg Altona, September 6th 1844)" folder_name="nachlassprojekt"/>
@@ -2325,7 +2432,8 @@
         <ref target="MaschinenschriftlicheAbschriftBrief003AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (o.O., December 18, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1807-03-26">
-        <ref target="MaschinenschriftlicheAbschriftBrief003FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 26. March                     1807)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief003FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 26. March
+                    1807)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1851-03-03">
         <ref target="MaschinenschriftlicheAbschriftBrief003TheodorMommsenanBoeckh.xml" title="Typewritten copy of a letter from Theodor Mommsen to August Boeckh (Leipzig, March 3rd 1851)" folder_name="nachlassprojekt"/>
@@ -2334,7 +2442,8 @@
         <ref target="MaschinenschriftlicheAbschriftBrief004AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (o.O., December 23, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1809-03-09">
-        <ref target="MaschinenschriftlicheAbschriftBrief004FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 9. March                     1809)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief004FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 9. March
+                    1809)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1851-10-05">
         <ref target="MaschinenschriftlicheAbschriftBrief004TheodorMommsenanBoeckh.xml" title="Typewritten copy of a letter from Theodor Mommsen to August Boeckh (Leipzig, October 5th 1851)" folder_name="nachlassprojekt"/>
@@ -2343,28 +2452,33 @@
         <ref target="MaschinenschriftlicheAbschriftBrief005AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, [1842])" folder_name="nachlassprojekt"/>
     </date>
     <date when="1814-01-09">
-        <ref target="MaschinenschriftlicheAbschriftBrief005FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 9. January                     1814)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief005FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Mannheim, 9. January
+                    1814)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1842-01-01">
         <ref target="MaschinenschriftlicheAbschriftBrief006AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, [1842])" folder_name="nachlassprojekt"/>
     </date>
     <date when="1814-06-12">
-        <ref target="MaschinenschriftlicheAbschriftBrief006FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, June 12,                     1814)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief006FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, June 12,
+                    1814)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-01-01">
         <ref target="MaschinenschriftlicheAbschriftBrief007AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, [1844])" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-02-19">
-        <ref target="MaschinenschriftlicheAbschriftBrief007FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, February 19,                     1815)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief007FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, February 19,
+                    1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-12-14">
         <ref target="MaschinenschriftlicheAbschriftBrief008AlexandervonHumboldtanBoeckh.xml" title="Typewritten copy of a letter from Alexander von Humboldt to August Boeckh (Potsdam, December 14, 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-12-25">
-        <ref target="MaschinenschriftlicheAbschriftBrief008FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, December 25,                     1815)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAbschriftBrief008FriedrichBoeckhanseinenBruderAugust.xml" title="Typewritten copy of the letter from Friedrich Boeckh the Elder. Ä. to his brother August (Karlsruhe, December 25,
+                    1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="MaschinenschriftlicheAktenzusammenfassungenanderFriedrichWilhelmUniversita%CC%88t.xml" title="Typewritten summaries of files on internal disputes and guidelines at Friedrich Wilhelm University,                     1828-48" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicheAktenzusammenfassungenanderFriedrichWilhelmUniversitat.xml" title="Typewritten summaries of files on internal disputes and guidelines at Friedrich Wilhelm University,
+                    1828-48" folder_name="nachlassprojekt"/>
     </date>
     <date when="1809-06-04">
         <ref target="MaschinenschriftlicheBriefabschrift001AchimvonArnimanBoeckh.xml" title="Typewritten copy of letters from Achim von Arnim to August Boeckh (Berlin, July 5, 1809)" folder_name="nachlassprojekt"/>
@@ -2472,7 +2586,8 @@
         <ref target="MaschinenschriftlicherAbschriftBrief007BarthanBoeckh.xml" title="Typewritten copy of Heinrich Barth's letter to August Boeckh (Sousse, December 21 1845)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1846-05-17">
-        <ref target="MaschinenschriftlicherAbschriftBrief008BarthanBoeckh.xml" title="Typewritten copy of Heinrich Barth's letter to August Boeckh (&#34;on the grave of a Cyrenean&#34;, Derna, May 17 and 28,                     1846)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAbschriftBrief008BarthanBoeckh.xml" title="Typewritten copy of Heinrich Barth's letter to August Boeckh (&quot;on the grave of a Cyrenean&quot;, Derna, May 17 and 28,
+                    1846)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1847-05-02">
         <ref target="MaschinenschriftlicherAbschriftBrief009BarthanBoeckh.xml" title="Typewritten copy of Heinrich Barth's letter to August Boeckh (Smyrna, August 2nd 1847)" folder_name="nachlassprojekt"/>
@@ -2514,7 +2629,8 @@
         <ref target="MaschinenschriftlicherAuszugBrief003BoeckhanseinenNeffenFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his nephew Friedrich (Berlin, April 2 1857)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1840-08-19">
-        <ref target="MaschinenschriftlicherAuszugBrief004AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Heringsdorf bei Swinoujscie,                     August 19, 1840)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief004AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Heringsdorf bei Swinoujscie,
+                    August 19, 1840)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1842-06-04">
         <ref target="MaschinenschriftlicherAuszugBrief005AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, June 4th 1842)" folder_name="nachlassprojekt"/>
@@ -2529,7 +2645,8 @@
         <ref target="MaschinenschriftlicherAuszugBrief008AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, April 1st 1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1844-09-13">
-        <ref target="MaschinenschriftlicherAuszugBrief009AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 13. September                     1844)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief009AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 13. September
+                    1844)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1845-01-22">
         <ref target="MaschinenschriftlicherAuszugBrief010AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 22. January 1845)" folder_name="nachlassprojekt"/>
@@ -2553,16 +2670,19 @@
         <ref target="MaschinenschriftlicherAuszugBrief016AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 2. September 1847)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-10-05">
-        <ref target="MaschinenschriftlicherAuszugBrief017AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 27. September and October                     5, 1848)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief017AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 27. September and October
+                    5, 1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1848-12-06">
-        <ref target="MaschinenschriftlicherAuszugBrief018AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 26. and November 28,                     December 6, 1848)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief018AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 26. and November 28,
+                    December 6, 1848)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-07-10">
         <ref target="MaschinenschriftlicherAuszugBrief019AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, July 10th 1849)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1849-09-16">
-        <ref target="MaschinenschriftlicherAuszugBrief020AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 16. September                     1849)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief020AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, 16. September
+                    1849)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1850-03-01">
         <ref target="MaschinenschriftlicherAuszugBrief021AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, March 1st 1850)" folder_name="nachlassprojekt"/>
@@ -2574,10 +2694,11 @@
         <ref target="MaschinenschriftlicherAuszugBrief023AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to his brother Friedrich (Berlin, January 3rd 1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1855-24-12">
-        <ref target="MaschinenschriftlicherAuszugBrief024AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to Elisabeth Boeckh, his brother's widow Friedrich (Berlin,                     December 24, 1855)" folder_name="nachlassprojekt"/>
+        <ref target="MaschinenschriftlicherAuszugBrief024AugustBoeckhanseinenBruderFriedrich.xml" title="Typewritten excerpt from a letter from August Boeckh to Elisabeth Boeckh, his brother's widow Friedrich (Berlin,
+                    December 24, 1855)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Materialu%CC%88bereinePreisschriftderAkademie.xml" title="Material on an Academy's award paper on the pronunciation of Latin (1854)" folder_name="nachlassprojekt"/>
+        <ref target="MaterialubereinePreisschriftderAkademie.xml" title="Material on an Academy's award paper on the pronunciation of Latin (1854)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1802-12-01">
         <ref target="Mitteilung001SchleiermacheranBoeckh.xml" title="Message from Schleiermacher to August Boeckh? (Stralsund, December 1802)" folder_name="nachlassprojekt"/>
@@ -2595,7 +2716,7 @@
         <ref target="MitteilungBoeckh004.xml" title="Message from Boeckh Dr. concerning Nauwerck" folder_name="nachlassprojekt"/>
     </date>
     <date when="1833-01-08">
-        <ref target="MitteilungDekanPhilosophischenFakulta%CC%88t001.xml" title="Message from the Dean of the Philosophical Faculty (Berlin, January 8, 1833)" folder_name="nachlassprojekt"/>
+        <ref target="MitteilungDekanPhilosophischenFakultat001.xml" title="Message from the Dean of the Philosophical Faculty (Berlin, January 8, 1833)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1816-03-07">
         <ref target="MitteilungLichtenstein001.xml" title="Communication from Lichtenstein (Berlin, March 7, 1816)" folder_name="nachlassprojekt"/>
@@ -2622,7 +2743,8 @@
         <ref target="Notizen_Timaeus_Critias.xml" title="Copy or notes on Timaeus and the Critias (o. O., o. D.)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1812-04-13">
-        <ref target="Plan_Boeckh.xml" title="August Boeckh's plan for the &#34;establishment of the philological seminar at the University of Berlin&#34; to the                     Ministry of Culture, o. O., o. D." folder_name="nachlassprojekt"/>
+        <ref target="Plan_Boeckh.xml" title="August Boeckh's plan for the &quot;establishment of the philological seminar at the University of Berlin&quot; to the
+                    Ministry of Culture, o. O., o. D." folder_name="nachlassprojekt"/>
     </date>
     <date when="1858-05-20">
         <ref target="Protokoll001.xml" title="Protocol (Berlin, May 20, 1858)" folder_name="nachlassprojekt"/>
@@ -2631,7 +2753,8 @@
         <ref target="Protokoll002.xml" title="Protocol (Berlin, July 3, 1858)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-08-23">
-        <ref target="ReproduktionBrief001GeorgWagemannanBoeckh.xml" title="Reproduction of Georg Wagemann's letter to August Boeckh ([Heidelberg, 23 August 1813] beginning missing, ending                     missing) - The originals of the letters are in Heidelberg" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief001GeorgWagemannanBoeckh.xml" title="Reproduction of Georg Wagemann's letter to August Boeckh ([Heidelberg, 23 August 1813] beginning missing, ending
+                    missing) - The originals of the letters are in Heidelberg" folder_name="nachlassprojekt"/>
     </date>
     <date when="1816-09-21">
         <ref target="ReproduktionBrief002GeorgWagemannanBoeckh.xml" title="Reproduction of Georg Wagemann's letter to August Boeckh ([September 21, 1816] beginning is missing.)" folder_name="nachlassprojekt"/>
@@ -2655,25 +2778,32 @@
         <ref target="ReproduktionBrief008GeorgWagemannanBoeckh.xml" title="Reproduction of Georg Wagemann's letter to August Boeckh (Heidelberg, September 29, 1812)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1810-03-26">
-        <ref target="ReproduktionBrief009GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Göttingen, March 26, 1810) - originals of the letters                     are in Heidelberg" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief009GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Göttingen, March 26, 1810) - originals of the letters
+                    are in Heidelberg" folder_name="nachlassprojekt"/>
     </date>
     <date when="1818-08-11">
-        <ref target="ReproduktionBrief010GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, August 11, 1818) - letter                     incomplete" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief010GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, August 11, 1818) - letter
+                    incomplete" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-02-01">
-        <ref target="ReproduktionBrief011GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, February 1, 1813) - originals of the                     letters are in Heidelberg" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief011GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, February 1, 1813) - originals of the
+                    letters are in Heidelberg" folder_name="nachlassprojekt"/>
     </date>
     <date when="1816-01-20">
-        <ref target="ReproduktionBrief012GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, January 20, 1816 (?)) - The reproduction                     is largely illegible, possibly incomplete" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief012GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, January 20, 1816 (?)) - The reproduction
+                    is largely illegible, possibly incomplete" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-02-01">
-        <ref target="ReproduktionBrief013GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, June 20, 1814 (?)) - The reproduction is                     largely illegible" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief013GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, June 20, 1814 (?)) - The reproduction is
+                    largely illegible" folder_name="nachlassprojekt"/>
     </date>
     <date when="1813-03-29">
-        <ref target="ReproduktionBrief014GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, March 29, 1813) - the originals of the                     letters are in Heidelberg" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief014GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, March 29, 1813) - the originals of the
+                    letters are in Heidelberg" folder_name="nachlassprojekt"/>
     </date>
     <date when="1816-09-18">
-        <ref target="ReproduktionBrief015GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, September 18, 1816 (?)) - The                     reproduction is largely illegible" folder_name="nachlassprojekt"/>
+        <ref target="ReproduktionBrief015GeorgWagemannanBoeckh.xml" title="Reproduction of the letter Georg Wagemann to August Boeckh (Heidelberg, September 18, 1816 (?)) - The
+                    reproduction is largely illegible" folder_name="nachlassprojekt"/>
     </date>
     <date when="1838-03-07">
         <ref target="SittlichkeitsbescheinigungTomer.xml" title="Morality certificate for E. R. F. von Tomer (Berlin, March 7, 1838)" folder_name="nachlassprojekt"/>
@@ -2697,22 +2827,23 @@
         <ref target="StellenkommentarButtmannanBoeckh.xml" title="Job comment from Philipp Buttmann to August Böckh presumably on the treatise on Pindar (undated)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="U%CC%88berblicku%CC%88berdenInhaltderMappe.xml" title="Overview of the contents of the folder" folder_name="nachlassprojekt"/>
+        <ref target="UberblickuberdenInhaltderMappe.xml" title="Overview of the contents of the folder" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="U%CC%88bersichtu%CC%88berdenInhaltderMappe50.xml" title="Overview of the contents of folder 50" folder_name="nachlassprojekt"/>
+        <ref target="UbersichtuberdenInhaltderMappe50.xml" title="Overview of the contents of folder 50" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
         <ref target="Unknown001.xml" title="Pages 151-155 are barely legible and cannot be assigned to a dated letter." folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Unknown002.xml" title="The original letters from January 16, 1822 are in box 2, folder 8. See the indexing there. However, the two                     following letters are missing there." folder_name="nachlassprojekt"/>
+        <ref target="Unknown002.xml" title="The original letters from January 16, 1822 are in box 2, folder 8. See the indexing there. However, the two
+                    following letters are missing there." folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-04-01">
-        <ref target="Verzeichnis000Zuho%CC%88rerinVorlesungenBoeckh.xml" title="Directory of students in the winter semester 1814-1815 (Berlin, dated as &#34;indicated on April 24, 1815&#34;)" folder_name="nachlassprojekt"/>
+        <ref target="Verzeichnis000ZuhorerinVorlesungenBoeckh.xml" title="Directory of students in the winter semester 1814-1815 (Berlin, dated as &quot;indicated on April 24, 1815&quot;)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="Verzeichnis001PrivatdozentenPhilosophischenFakulta%CC%88t.xml" title="List of listeners in Professor Boeckh's lectures (o.O., o.D.)" folder_name="nachlassprojekt"/>
+        <ref target="Verzeichnis001PrivatdozentenPhilosophischenFakultat.xml" title="List of listeners in Professor Boeckh's lectures (o.O., o.D.)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-01-07">
         <ref target="Verzeichnis001Studierenden.xml" title="Register of Students (Berlin, around January 7, 1815)" folder_name="nachlassprojekt"/>
@@ -2721,24 +2852,26 @@
         <ref target="Verzeichnis001StudierendenWintersemester.xml" title="Directory of private lecturers in the philosophical faculty 1810-1821" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-01-01">
-        <ref target="Verzeichnis001Zuho%CC%88rerinVorlesungenBoeckh.xml" title="Directory of students of the faculty in the winter semester 1814-1815" folder_name="nachlassprojekt"/>
+        <ref target="Verzeichnis001ZuhorerinVorlesungenBoeckh.xml" title="Directory of students of the faculty in the winter semester 1814-1815" folder_name="nachlassprojekt"/>
     </date>
     <date when="1856-06-02">
         <ref target="Verzeichnis002StudierendenWintersemester.xml" title="List of listeners in Professor Boeckh's lectures (Berlin, November 9, 1811)" folder_name="nachlassprojekt"/>
     </date>
     <date when="?">
-        <ref target="ZusammenfassungenBriefwechselScho%CC%88mannundBoeckh.xml" title="Summaries of the correspondence between Georg Friedrich Schömann and Boeckh" folder_name="nachlassprojekt"/>
+        <ref target="ZusammenfassungenBriefwechselSchomannundBoeckh.xml" title="Summaries of the correspondence between Georg Friedrich Schömann and Boeckh" folder_name="nachlassprojekt"/>
     </date>
     <date when="1815-03-20">
-        <ref target="ZusammenfassungZuho%CC%88rerliste001.xml" title="Summary of an audience list (Berlin, March 20, 1815)" folder_name="nachlassprojekt"/>
+        <ref target="ZusammenfassungZuhorerliste001.xml" title="Summary of an audience list (Berlin, March 20, 1815)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1864-09-09">
-        <ref target="ZweitausfertigungBriefesgezeichnetWilhelmIundBismarkanPetervonCornelius.xml" title="A second copy of a letter drawn by Wilhelm I and von Bismark to Peter von Cornelius (Baden-Baden, September 9,                     1864)" folder_name="nachlassprojekt"/>
+        <ref target="ZweitausfertigungBriefesgezeichnetWilhelmIundBismarkanPetervonCornelius.xml" title="A second copy of a letter drawn by Wilhelm I and von Bismark to Peter von Cornelius (Baden-Baden, September 9,
+                    1864)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1865-10-25">
-        <ref target="ZweitausfertigungBriefesPetervonCorneliusanKo%CC%88nigWilhelmI.xml" title="Copy of a letter from Peter von Cornelius to King Wilhelm I (Berlin, October 21 1865)" folder_name="nachlassprojekt"/>
+        <ref target="ZweitausfertigungBriefesPetervonCorneliusanKonigWilhelmI.xml" title="Copy of a letter from Peter von Cornelius to King Wilhelm I (Berlin, October 21 1865)" folder_name="nachlassprojekt"/>
     </date>
     <date when="1865-10-21">
-        <ref target="ZweitausfertigungBriefesPetervonCorneliusanKo%CC%88nigWilhelmIundseinenKultusministerMu%CC%88hler.xml" title="A second copy of a letter from Peter von Cornelius to King Wilhelm I and his minister of culture, Mühler (Berlin,                     October 21, 1865)" folder_name="nachlassprojekt"/>
+        <ref target="ZweitausfertigungBriefesPetervonCorneliusanKonigWilhelmIundseinenKultusministerMuhler.xml" title="A second copy of a letter from Peter von Cornelius to King Wilhelm I and his minister of culture, Mühler (Berlin,
+                    October 21, 1865)" folder_name="nachlassprojekt"/>
     </date>
 </timeline>
